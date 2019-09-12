@@ -1,0 +1,335 @@
+PMC3002766|S9||None||This double-blind, placebo-controlled trial conducted at 41 centres in Europe and North America randomised 188 patients with SSc with at least 1 active DU (‘cardinal ulcer’) to bosentan 62.5 mg twice daily for 4 weeks and 125 mg twice daily thereafter for 20 weeks (n=98) or matching placebo (n=90; total 24 weeks).
+PMC3002766|S10||None||The two primary end points were the number of new DUs and the time to healing of the cardinal ulcer.
+PMC3002766|S11||None||Secondary end points included pain, disability and safety.
+PMC3016167|S46||Funding||This study and trial were done without the help of any funding agency.
+PMC3016167|S47||None||Anti-scorpion antivenom was purchased from Haffkine Biopharma Mumbai and given to participants in this trial.
+PMC3016167|S48||Eligibility Criteria,Recruitment Period/Follow-Up||We proposed to include people admitted with scorpion sting over one year, between March 2009 and February 2010.
+PMC3016167|S49||Trial Design,Data Collection Setting||This was a randomised (1:1 allocation ratio), parallel group, open label, controlled trial conducted at Bawaskar Hospital in Mahad, a region of India with a population of 20 000, situated 180 km south of Mumbai on the Mumbai-Goa highway.
+PMC3016167|S50||Protocol Access||An independent data and safety monitoring board monitored the trial and had access to the all data.
+PMC3016167|S51||None||Statistical analysis was done by a statistician in collaboration with the investigators.
+PMC3016167|S52||None||The study design was approved by the independent ethics committee of BYL Medical College Mumbai (IEC/08/39) and all participants provided written informed consent.
+PMC3016167|S54||Outcomes||The primary efficacy variable was the time required for recovery after venomous scorpion sting.
+PMC3016167|S55||Sample Size Determination||We estimated that 35 patients in each group would be required to achieve 80% power; α=0.05 to detect a mean difference of four hours in the recovery time between the groups, assuming a mean recovery time of 10 hours (SD 2.5 hours) in the antivenom plus prazosin group and 14 (SD 3) hours for the prazosin alone group.
+PMC3016167|S57||Random Allocation Sequence Generation,Randomization Type||A statistician generated the sequentially numbered randomisation list with random block sizes of 4 4 2 4 4 6 2 4 6 6 6 8 4 8 2 using www.randomisation.com.
+PMC3016167|S58||Random Allocation Sequence Generation||This process can be reproduced by using seed 22491 (6 March 2009).
+PMC3016167|S59||Allocation Concealment Mechanism||This randomisation sequence was concealed by using sequentially numbered, opaque, sealed, and stapled envelopes.
+PMC3016167|S60||Randomization Implementation||Envelopes were opened alternately by HSB or PHB after an eligible patient consented to take part in the trial and patients were allocated according to the randomisation label inside the envelope.
+PMC3016167|S62||Statistical Methods for Outcome Comparison,Statistical Methods for Other Analyses||Demographic factors and clinical characteristics were summarised as counts (percentages) for categorical variables and as mean (standard deviation; SD) for normally distributed continuous variables.
+PMC3016167|S63||None||All patients who had been randomly assigned to a treatment group were included in the intention-to-treat analyses.
+PMC3016167|S64||Statistical Methods for Outcome Comparison,Statistical Methods for Other Analyses||The groups were compared using χ2 test or Fisher’s exact test for categorical variables, unpaired t test for normally distributed continuous variables, and Mann-Whitney U test for other continuous variables.
+PMC3016167|S65||Statistical Methods for Outcome Comparison||We analysed results with SPSS 17 software.
+PMC3016167|S66||Statistical Methods for Other Analyses||Blood pressure and pulse rate were measured at different time points and were repeated factors, and treatment group was included as a between-participant measure.
+PMC3016167|S67||Statistical Methods for Outcome Comparison,Statistical Methods for Other Analyses||α was set at 0.05.
+PMC3016167|S68||Statistical Methods for Outcome Comparison,Statistical Methods for Other Analyses||We used the Greenhouse-Geisser P value.
+PMC3016167|S70||Eligibility Criteria,Recruitment Period/Follow-Up||Between March 2009 and February 2010 we recruited patients who reported to Bawaskar Hospital and Mahad research centre after being stung by Mesobuthus tamulus (fig 1).2 4 6 31
+PMC3016167|S71||None||Fig 1 Indian red scorpion (Mesobuthus tamulus)
+PMC3016167|S73||Eligibility Criteria||Patients were eligible for enrolment if they reported to hospital with Mesobuthus tamulus sting of clinical grade 2 severity, with an interval of less than six hours between sting and hospital admission, and were older than six months.
+PMC3016167|S74||Eligibility Criteria||Mesobuthus tamulus sting was confirmed if the victim or bystander had seen a red scorpion, had brought in the killed specimen, or recognised the hospital’s preserved specimen.
+PMC3016167|S75||None||In this way we made sure that Mesobuthus tamulus was not confused with Palamneus gravimanus, a larger scorpion that is less lethal and causes only severe local pain without systemic involvement or transient reversible cardiovascular effects.1 32
+PMC3016167|S76||Eligibility Criteria||Major exclusion criteria were: patient reporting six hours after sting, pregnant women, history of taking prazosin or antivenom, history of bronchial asthma, history of allergic reaction to foreign serum, and refusal to give consent.
+PMC3016167|S77||None||Written informed consent was obtained in the local language.
+PMC3016167|S78||None||For illiterate adults, a literate relative of the patient read the statement out loud to them and consent was obtained by thumb impression witnessed by the relative.
+PMC3016167|S79||None||Parent’s consent was obtained for minor children.
+PMC3016167|S80||None||The study protocol was approved by the independent ethics committee of Mumbai (registration number 1433/1999G.B.B.S.D, IEC/08/39).
+PMC3016167|S81||None||All people admitted with scorpion sting between March 2009 to February 2010 were insured by the Oriental Insurance Company Limited clinical trial liability cover policy No 111600/48/2009/227.
+PMC3016167|S83||None||Cases are graded according to severity of clinical manifestations on arrival at hospital (box).
+PMC3016167|S84||None||Severity of clinical manifestations, morbidity, and mortality depend on the time lapsed between sting and hospital admission, as well as the grade of a case on arrival.5 9 18 33 34
+PMC3016167|S85||None||Evaluation of clinical grade of scorpion sting on arrival at hospital
+PMC3016167|S86||None||Grade 1: severe, excruciating local pain at the sting site radiating along with corresponding dermatomes, mild local oedema with sweating at the sting site, without systemic involvement
+PMC3016167|S87||None||Grade 2: signs and symptoms of autonomic storm characterised by acetylcholine excess or parasympathetic stimulation (vomiting, profuse sweating from all over body, ropey salivation, bradycardia, premature ventricular contraction, hypotension, priapism in men) and sympathetic stimulation (hypertension with blood pressure >140/90, tachycardia with heart rate >120 per minute, cold extremities, transient systolic murmur).
+PMC3016167|S88||None||Grade 3: cold extremities, tachycardia, hypotension or hypertension with pulmonary oedema (respiratory rate >24 per minute, basal rales or crackles in lungs).
+PMC3016167|S89||None||Grade 4: tachycardia, hypotension with or without pulmonary oedema with warm extremities (warm shock).
+PMC3016167|S90||Eligibility Criteria||Patients with grade 2 signs and symptoms were included in the present study.
+PMC3016167|S91||None||After giving written consent, all eligible patients were examined by one of the two authors and baseline data were recorded on a standard form.
+PMC3016167|S92||None||Data included age, sex, time between sting and hospital admission, and history of any medication before admission, vomiting soon after sting, or paraesthesia (tingling and numbness in the perioral region, or sometimes reported by the patient to be felt all over the body).
+PMC3016167|S93||None||One of the authors sat by the side of the patients and closely clinically examined them for signs and symptoms of systemic manifestations: presence of profuse sweating all over the body, ropey salivation, priapism in men, heart murmur, coolness of the extremities.
+PMC3016167|S94||None||Blood pressure, heart rate, cardiac arrhythmias, respiratory rate, and oxygen saturation were monitored on a multipara monitor.
+PMC3016167|S95||None||These findings were noted on admission at 00.00, at 30 minutes, and at 1, 2, 4, 6, 8, 10, 14, 18, and 24 hours.
+PMC3016167|S96||None||Subsequent improvement or deteriorations to grade 3 or 4 were closely followed by the author who examined the patient on arrival.
+PMC3016167|S97||None||Blood was collected from all participants on admission for measurement of haemoglobin, white cell count, and creatine kinase-MB.
+PMC3016167|S98||None||A 12 lead electrocardiogram (ECG) was done on arrival, after six hours, and before discharge.
+PMC3016167|S100||None||Mesobuthus tamulus is not the only venomous scorpion in the state of western Maharashtra, but it may be the only dangerously venomous scorpion in the Mahad area.24 25
+PMC3016167|S101||None||Haffkine Biopharma (Mumbai) has been manufacturing monovalent anti-scorpion venom serum F(ab)2 against Mesobuthus tamulus since 1997 and it has been available for clinical use in a rural setting since 2002.
+PMC3016167|S102||None||Studies conducted at different times show that the antivenom is potent; 1 mL of reconstituted anti-scorpion venom serum neutralised 1.2 mg of Indian red scorpion venom by intravenous route in an in vivo study in mice.35
+PMC3016167|S103||None||The maximum volume of venom injected in one sting by the Indian red scorpion is 1.5 mg, and each mL of antivenom is capable of neutralising 1.2 to 1.5 mg of venom.36
+PMC3016167|S104||Interventions||A single 30 mL dose of Haffkine Biopharma monovalent antivenom (batch no SS811001, manufacturing date November 2008, expiry date April 2013) was added to 100 mL of normal saline, which was infused intravenously over 30 minutes irrespective of patient’s age.
+PMC3016167|S105||Interventions||During infusion the patient was closely observed for reaction to the serum in the form of sudden onset of vomiting, urticaria, hypotension, tachycardia, bronchospasm, angioneurotic oedema, or anaphylaxis.
+PMC3016167|S106||Interventions||Oral prazosin (batch no ML.NH 138 batch no GK 60372 manufactured 04/2006, expiry 03/2011, and ML.NH 138 batch no GK 80282 manufactured 02/2008, expiry 01/2013) was given at a dose of 250 µg in children up age 18 years and 500 µg in adults.
+PMC3016167|S107||Interventions||The same dose was repeated at intervals of 3 hours until the extremities were cold.
+PMC3016167|S108||Interventions||Similar doses were administered in both randomisation groups.
+PMC3016167|S109||Interventions||Dehydration owing to vomiting and sweating was corrected by intravenous crystalloid solution.
+PMC3016167|S110||Interventions||The prazosin treated group required longer duration and larger volumes of intravenous crystalloid solution than the antivenom plus prazosin group.
+PMC3016167|S111||Interventions||Patients who developed grade 3 and 4 symptoms were transferred to the intensive care unit.
+PMC3016167|S112||Interventions||Before discharge all participants were immunised for tetanus.
+PMC3016167|S114||Outcomes||The primary end point was the proportion of patients achieving resolution of the grade 2 clinical syndrome at the end of 10 hours after administration of the study drugs and prevention of deterioration to grade 3 and 4.18 21 37
+PMC3016167|S115||Outcomes||Secondary end points were time required for complete resolution of clinical syndrome, prevention of deterioration to higher grade, doses of prazosin required within 10 hours and overall, and adverse events.
+PMC3018567|S8||Trial Design||In this randomised, double-blind, placebo-controlled trial, we enrolled 2507 women in the second or third trimester of pregnancy who were planning to deliver in Entebbe General Hospital, Entebbe, Uganda.
+PMC3018567|S9||None||With a computer-generated random number sequence in blocks of 100, we assigned patients to 440 mg albendazole and 40 mg/kg praziquantel (n=628), 440 mg albendazole and a praziquantel-matching placebo (n=625), 40 mg/kg praziquantel and an albendazole-matching placebo (n=626), or an albendazole-matching placebo and praziquantel-matching placebo (n=628).
+PMC3018567|S10||None||All participants and hospital staff were masked to allocation.
+PMC3018567|S11||None||Primary outcomes were immune response at age 1 year to BCG, tetanus, and measles immunisation; incidence of infectious diseases during infancy; and vertical HIV transmission.
+PMC3018567|S13||Registry/Number||This trial is registered, number ISRCTN32849447.
+PMC3036630|S9||None||Twenty-eight patients (age 58 ± 7.8 yr, packyears 40 ± 15.5, post-bronchodilator FEV1 77 ± 14.0%predicted, no inhaled steroids ≥4 wks) with mild-moderate COPD (GOLD I-II) completed two randomized visits with hypertonic saline-induced sputum and mannitol challenge (including sputum collection).
+PMC3036630|S10||None||AHR to mannitol was expressed as response-dose-ratio (RDR) and related to cell counts, ECP, MPO and IL-8 levels in sputum.
+PMC3070271|S7||None||A multicentre, randomised, double-blind, placebo-controlled trial was conducted.
+PMC3070271|S8||None||The primary objective was to compare the efficacy of a 1-month treatment with anakinra (2 mg/kg subcutaneous daily, maximum 100 mg) with a placebo between two groups each with 12 patients with SJIA.
+PMC3070271|S9||None||Response was defined by a 30% improvement of the paediatric American College of Rheumatology criteria for JIA, resolution of systemic symptoms and a decrease of at least 50% of both C-reactive protein and erythrocyte sedimentation rate compared with baseline.
+PMC3070271|S10||None||After month 1 (M1), patients taking placebo were switched to anakinra.
+PMC3070271|S11||None||Secondary objectives included tolerance and efficacy assessment for 12 months, and analyses of treatment effect on blood gene expression profiling.
+PMC3076731|S34||Data Collection Setting||Members of the British Society for Paediatric Endocrinology and Diabetes recruited patients from participating paediatric endocrinology departments in UK hospitals.
+PMC3076731|S35||Eligibility Criteria||Inclusion criteria for participation of patients were karyotype confirmed Turner’s syndrome (all karyotypes were eligible, including mosaic), age 7-13 years, no previous growth hormone treatment or previous treatment in the range 8.3-11.7 mg/m2/week in five to seven injections a week, no previous oxandrolone and oestrogen therapy, and open epiphyses.
+PMC3076731|S36||Eligibility Criteria||Exclusion criteria were major systemic illness that might affect growth and social or psychological difficulties likely to seriously impair concordance.
+PMC3076731|S38||Trial Design||We devised a double blind, placebo controlled, randomised controlled trial, including two randomisations in a two by two factorial design.
+PMC3076731|S39||None||Figure 1 shows the flow chart of the design and participants.
+PMC3076731|S40||None||A steering committee (British Society for Paediatric Endocrinology and Diabetes Clinical Trials/Audit Group) supervised the study, and an independent data and safety monitoring group was established.
+PMC3076731|S41||None||All participants’ parents gave written informed consent.
+PMC3076731|S42||None||Fig 1 Flow chart of participation in UK Turner Study according to treatment groups, completions, and withdrawals.
+PMC3076731|S43||None||*Withdrawn before 12 years of age (that is, randomised only at randomisation 1 to oxandrolone or placebo).
+PMC3076731|S44||None||†Aged ≥12.25 years at recruitment; oestrogen treatment started at 14 years with no randomisation.
+PMC3076731|S45||None||‡Withdrawn after 12 years of age (that is, randomised at randomisation 1 to oxandrolone or placebo and at randomisation 2 if oestrogen treatment needed)
+PMC3076731|S47||Randomization Type||The British Society for Paediatric Endocrinology and Diabetes Clinical Trials Unit (Cambridge, UK) used minimisation by weighted randomisation for the study’s two randomisations.20
+PMC3076731|S48||Randomization Implementation,Interventions||Randomisation 1, to oxandrolone or placebo, took place at age 9 years (or at enrolment, if older) and was balanced for enrolling centre, quarter of mid-parental height, and previous exposure to growth hormone treatment.
+PMC3076731|S49||Randomization Implementation,Interventions||Randomisation 2 took place at age 12 years in girls with ovarian failure (basal serum follicle stimulating hormone concentration >10 U/L), with additional minimisation for randomisation 1, to begin oral ethinylestradiol or placebo at 12 years; the placebo group subsequently started ethinylestradiol at 14 years.
+PMC3076731|S50||Randomization Implementation||Girls with a follicle stimulating hormone concentration below 10U/L and a karyotype associated with preservation of ovarian function (45,X/46,XX and 45,X/47,XXX21) (the spontaneous puberty group) were not randomised at randomisation 2.
+PMC3076731|S51||Randomization Implementation||Girls with other karyotypes were tested for concentrations of gonadotrophin releasing hormone and were randomised at randomisation 2 if the peak follicle stimulating hormone concentration was above 30 U/L.
+PMC3076731|S52||Interventions||Participants enrolled after the age of 12.25 years and without spontaneous puberty (the late group) started ethinylestradiol at 14 years.
+PMC3076731|S54||Interventions||All participants received the growth hormone preparation of their choice at 10 mg/m2/week in daily subcutaneous injections.
+PMC3076731|S55||Interventions||Oral oxandrolone (SPA, Milan, Italy) was given at 0.05 mg/kg/day, with a maximum daily dose of 2.5 mg.
+PMC3076731|S56||Interventions||Oral ethinylestradiol (UCB Pharma, Slough, UK) was given daily as follows, regardless of the age at starting: year 1, 2 μg; year 2, 4 μg; year 3, four months each of 6, 8, and 10 μg.
+PMC3076731|S57||Interventions,Randomization Implementation||The code for randomisation 2 was broken at 15 years to allow introduction of progesterone therapy: oral norethisterone (CP Pharmaceuticals, Wrexham, UK) 5 mg daily for five days each month.
+PMC3076731|S58||Interventions||Treatment with growth hormone and oxandrolone continued until final height was reached.
+PMC3076731|S59||Interventions||Oestrogen/progesterone therapy continued at an adult replacement dose once pubertal induction was completed.
+PMC3076731|S60||Similarity of Interventions||White, uncoated, flat bevelled edge placebo tablets (7 and 5 mm in diameter) (Essential Nutrition, Brough, UK) were specially manufactured to match the size, weight, and appearance of oxandrolone 2.5 mg and ethinylestradiol 2 µg tablets respectively.
+PMC3076731|S61||Blinding Procedure||The study’s central pharmacy (Royal Hospital for Sick Children, Glasgow, UK) supplied all tablets in a double blind, placebo controlled fashion; only staff at the British Society for Paediatric Endocrinology and Diabetes Clinical Trials Unit and the central distributing pharmacy were not blinded to treatment allocations.
+PMC3076731|S63||Changes TO Trial Design||In 2004 and 2008, the sole European manufacturer of oxandrolone 2.5 mg ceased production, resulting in 34 participants in 2004 and 11 in 2008 temporarily suspending active oxandrolone treatment (mean duration: 2004, 52 days; 2008, 163 days).
+PMC3076731|S64||Changes TO Trial Design||In 2008, the decision was taken to terminate the treatment arm forthwith, resulting in eight participants stopping oxandrolone treatment prematurely.
+PMC3076731|S66||Outcomes||At clinic visits every four to six months, height was measured with a Harpenden stadiometer to the last completed 1 mm and converted to an SD score by using the British 1990 reference.22
+PMC3076731|S67||Outcomes||Radiographs of the left wrist were obtained annually, and a single observer (WFP) analysed them for bone age estimation according to the Tanner Whitehouse II method.23
+PMC3076731|S68||None||Biochemical analyses followed local protocols, and the results were reported centrally.
+PMC3076731|S69||None||Standardised pharmacovigilance procedures were followed, with recording of adverse events or reactions at each visit and subsequent review by the Data and Safety Monitoring Group.
+PMC3076731|S70||None||Data collection ceased if participants withdrew consent, although we included previously collected data in the analysis.
+PMC3076731|S72||Outcomes||The primary outcome was final height, defined as height velocity less than 1 cm/year and bone age at least 15.5 years.
+PMC3076731|S73||Outcomes||Secondary outcomes were maximum height (that is, the most recently available height), age of attaining final height, and the three summary growth parameters from the SITAR analysis described below.
+PMC3076731|S74||Sample Size Determination||Assuming a standard deviation of 5 cm, we needed 50 girls in each group to detect a difference between groups in mean final height of 2.8 cm with 80% power at 5% significance—a total of 100 patients.
+PMC3076731|S75||None||The study was not formally powered to detect a significant interaction between the two randomisations.
+PMC3076731|S76||Sample Size Determination||In the event, more than 100 patients were recruited, but fewer than 100 were followed up to final height.
+PMC3076731|S77||Statistical Methods for Outcome Comparison||We estimated the effects of the two randomisations separately by using multiple regression.
+PMC3076731|S78||Statistical Methods for Other Analyses||We also adjusted randomisation 2 (timing of pubertal induction) for randomisation 1 (oxandrolone) and tested for an interaction.
+PMC3076731|S79||Statistical Methods for Outcome Comparison||In addition, we applied SITAR (superimposition by translation and rotation), a novel method of growth curve analysis, to the data.24
+PMC3076731|S80||Statistical Methods for Outcome Comparison||SITAR transforms individual growth curves so that they become essentially the same as each other and, when superimposed, define the average summary curve.
+PMC3076731|S81||Statistical Methods for Outcome Comparison||To achieve this, each individual curve is suitably altered in three distinct ways: the curve is shifted up/down (a measure of the child’s size in cm) and left/right (a measure of growth tempo in years), and the age axis is stretched/squashed (a measure of percentage velocity).
+PMC3076731|S82||None||Size, tempo, and velocity are thus participant specific random effects summarising how each girl’s curve differs from the average curve.
+PMC3076731|S83||None||The effects of the randomisations can be explored by comparing the values of the random effects by trial arm.
+PMC3076731|S84||None||Equally, separate summary curves can be constructed for each trial arm.
+PMC3103669|S7||Trial Design||In this double-blind, double-dummy, dose-ranging study, 432 patients with gouty arthritis initiating allopurinol treatment were randomised 1:1:1:1:1:1:2 to receive: a single dose of canakinumab, 25, 50, 100, 200, or 300 mg subcutaneously; 4×4-weekly doses of canakinumab (50+50+25+25 mg subcutaneously); or daily colchicine 0.5 mg orally for 16 weeks.
+PMC3103669|S8||Outcomes||Patients recorded details of flares in diaries.
+PMC3103669|S9||Trial Design||The study aimed to determine the canakinumab dose having equivalent efficacy to colchicine 0.5 mg at 16 weeks.
+PMC3109952|S38||Trial Design,Data Collection Setting||This multicentre, two arm, randomised, controlled, open trial was carried out in 13 centres in the United Kingdom and one in the Republic of Ireland.
+PMC3109952|S40||Eligibility Criteria||Participants were eligible for the study if they were aged 12 years or over and had a plantar wart (verruca) that, in the opinion of a healthcare professional, was suitable for treatment with both salicylic acid and cryotherapy.
+PMC3109952|S41||Eligibility Criteria||Participants were excluded from the study if they had impaired healing (such as from diabetes or peripheral vascular disease); were immunosuppressed (such as agammaglobulinaemia) or were taking immunosuppressant drugs (such as oral corticosteroids); had neuropathy; were receiving renal dialysis; had cold intolerance (such as Raynaud’s syndrome or cold urticaria); had any of the following conditions (blood dyscrasias of unknown origin, cryoglobulinaemia, cryofibrinogenaemia, collagen or autoimmune disease); were unable to give informed consent; or were currently in a trial evaluating other treatments for their plantar wart.
+PMC3109952|S42||None||Recruitment and randomisation of participants
+PMC3109952|S43||None||Participants were recruited between November 2006 and January 2010 (end of extended recruitment period) from university podiatry school clinics, NHS podiatry clinics, and primary care.
+PMC3109952|S44||None||Eligible participants gave written informed consent.
+PMC3109952|S45||None||They were then randomised equally to receive cryotherapy with liquid nitrogen or daily self treatment with an over the counter 50% salicylic acid treatment.
+PMC3109952|S46||Allocation Concealment Mechanism,Randomization Implementation||Randomisation was performed by a member of the research team either telephoning an independent, secure, remote, telephone randomisation service (York Trials Unit) or accessing a secure online web randomisation programme, thereby concealing treatment allocation until the moment of randomisation.
+PMC3109952|S47||Randomization Type,Random Allocation Sequence Generation||Randomisation was simple (that is, it was not restricted in any way such as by stratification or blocked allocation with the allocation sequence being computer generated).
+PMC3109952|S50||Interventions||Participants randomised to cryotherapy with liquid nitrogen received a maximum of four treatments given two to three weeks apart by a healthcare professional.
+PMC3109952|S51||Interventions||The liquid nitrogen was applied with a spray (method of choice if available) or a probe.
+PMC3109952|S52||Interventions||The treatment was delivered according to the site’s usual practice (such as debridement before treatment, masking of the surrounding area, and padding after treatment).
+PMC3109952|S53||Interventions||On advice from the trial steering committee, sites were advised that the first treatment should be a “gentle freeze” in order to ensure the participant could tolerate the treatment.
+PMC3109952|S55||Interventions||Participants randomised to self treatment with 50% salicylic acid (Verrugon, William Ransom and Son) were instructed how to apply the treatment according to the manufacturer’s instructions by the treating healthcare professional.
+PMC3109952|S56||Interventions||Patients were directed to fix the adhesive ring with the hole over the verruca and to squeeze a little ointment into the hole and directly on to the verruca.
+PMC3109952|S57||Interventions||The backing paper from the plaster was then removed and the plaster applied to cover the ring completely.
+PMC3109952|S58||Interventions||The plaster was then sealed into position.
+PMC3109952|S59||Interventions||The treatment was repeated daily after gently pumicing or filing off the dead part of the verruca for a maximum of eight weeks.
+PMC3109952|S62||Outcomes||The primary outcome was complete clearance of all plantar warts at 12 weeks after randomisation.
+PMC3109952|S63||Outcomes||Clearance of plantar wart was defined as the restoration of normal skin on close inspection.
+PMC3109952|S64||Outcomes||Digital photographs of the plantar wart(s) were taken at baseline and at the outcome assessment.
+PMC3109952|S65||Outcomes,Blinding Procedure||The photographs were assessed by two assessors who were blind to treatment allocation.
+PMC3109952|S66||Outcomes||They independently assessed the photographs for each participant to determine whether the plantar wart had cleared.
+PMC3109952|S67||Outcomes||Any discrepancies were referred to a third assessor.
+PMC3109952|S68||Outcomes||If no photographs were available for a participant, however, then the blinded outcome assessment undertaken at the site was used.
+PMC3109952|S69||Outcomes||If neither of these were available for a participant, the patient’s self reported outcome recorded in the week 12 patient questionnaire or on the “Verrucae gone form” was used.
+PMC3109952|S71||Outcomes||Secondary outcomes included (a) complete clearance of all plantar warts at 12 weeks after controlling for age, whether the plantar wart had been treated previously, and type of wart and (b) a second model to explore the effect of patient preferences, (c) with clearance of plantar wart at six months, (d) number of warts at 12 weeks, (e) time to clearance of wart, (f) patient satisfaction with the treatment, and (g) adverse events.
+PMC3109952|S72||Outcomes||Questionnaires were administered by post or were completed on line at one, three, and 12 weeks and six months.
+PMC3109952|S74||None||The Cochrane systematic review found only one small trial directly comparing the effectiveness of a chemical treatment, salicylic acid, with cryotherapy in patients with warts on their feet alone.6
+PMC3109952|S75||None||This poor quality study found a 58% cure rate among the patients allocated to cryotherapy, compared with 41% among those treated with salicylic acid.
+PMC3109952|S76||None||This difference of 17% was not statistically significant.
+PMC3109952|S77||None||The overall cure rates from this study are smaller than those observed in two placebo controlled trials of salicylic acid, both of which reported cure rates of 85% for active treatment, possibly because more resistant verrucae were included in the study comparing cryotherapy with salicylic acid.
+PMC3109952|S78||None||This trial was a superiority study of cryotherapy compared with salicylic acid and was powered to show a 15% difference in effectiveness.
+PMC3109952|S79||Sample Size Determination||In order to give 80% power (5% two sided significance) to show a difference in cure rates of 70% for salicylic acid versus 85% for cryotherapy at 12 weeks, a sample size of 120 patients in each treatment group was required, or 133 patients in each group after allowing for 10% attrition (266 patients in total).
+PMC3109952|S81||None||All analyses were conducted on an intention to treat basis, including all patients in the groups to which they were randomised.
+PMC3109952|S82||Statistical Methods for Outcome Comparison||Analyses were conducted in SAS version 9.2 (SAS Institute, NC, USA) and SPSS version 17.0.2 (SPSS) using two sided significance tests at the 5% significance level for the primary outcome measure and 1% significance level for secondary outcome measures.
+PMC3109952|S84||Statistical Methods for Outcome Comparison||The primary analysis compared the clearance rate of all plantar warts at 12 weeks between the two randomised groups using a χ2 test.
+PMC3109952|S85||Statistical Methods for Outcome Comparison||Cohen’s κ measure of inter-rater agreement was used to assess agreement between the two assessors of the photographs for clearance.
+PMC3109952|S87||Statistical Methods for Outcome Comparison||A logistic regression model was used to adjust the primary analysis for important prognostic variables (age, whether the plantar wart had been previously treated, and type of wart).
+PMC3109952|S88||Statistical Methods for Outcome Comparison||We also extended the primary outcome model to explore the effect of patient preferences by including preference and an interaction term between preferred treatment and randomised treatment.
+PMC3109952|S89||Statistical Methods for Outcome Comparison||The complete clearance of all plantar warts at six months was analysed in the same way as the primary outcome with adjustments for the same covariates.
+PMC3109952|S90||Statistical Methods for Outcome Comparison||We used negative binomial regression to compare the number of plantar warts at 12 weeks between the two treatment groups with adjustment for the number of plantar warts at baseline.
+PMC3109952|S91||None||These models are used to estimate the number of occurrences of an event when the event has Poisson variation with over-dispersion.
+PMC3109952|S92||Outcomes||The time to clearance of plantar warts was derived as the number of days from randomisation until the date of clearance, as detailed from the participant’s self reported questionnaire.
+PMC3109952|S93||None||Participants whose plantar warts had not cleared were treated as censored, and we calculated their duration in the trial from their date of trial exit, date of last available assessment, or the 183 days to trial cessation, as appropriate.
+PMC3109952|S94||Statistical Methods for Outcome Comparison||A Cox proportional hazards model was used to compare the time to clearance of plantar warts between the two groups adjusting for the same covariates as for the primary outcome.
+PMC3109952|S95||Statistical Methods for Outcome Comparison||The Cox proportional hazard assumption was tested globally by the correlation of Schoenfeld residuals and survival time (or ranked survival time) and separately for each covariate through the correlation of Schoenfeld scaled residuals and survival time (or ranked survival time).
+PMC3109952|S96||None||Non-significant correlation indicates that there is not enough evidence that the proportional hazard assumption has been violated.
+PMC3109952|S97||None||Data on patient satisfaction with the treatment and adverse events were summarised by treatment group but no statistical analyses were performed.
+PMC3128457|S39||Trial Design||Trial design—This double blind, randomised, placebo controlled trial was nested in a cohort of CRASH-2 trial participants.
+PMC3128457|S40||None||The aims, methods, and results of the CRASH-2 trial are presented in detail elsewhere.2
+PMC3128457|S41||None||Participants—The trial was conducted in a cohort of CRASH-2 trial participants.
+PMC3128457|S42||Eligibility Criteria||Patients eligible for inclusion in the Intracranial Bleeding Study fulfilled the inclusion criteria for the CRASH-2 trial—adult trauma patients with significant haemorrhage (systolic blood pressure <90 mm Hg or heart rate >110 beats per min, or both) or who were considered to be at risk of significant haemorrhage, and who were within 8 hours of injury (study entry governed by the uncertainty principle)11—but they also had traumatic brain injury (Glasgow coma scale ≤14 and a brain computed tomography compatible with traumatic brain injury).
+PMC3128457|S43||Eligibility Criteria||Pregnant women and patients for whom a second brain scan was not possible were excluded.
+PMC3128457|S44||None||Consent procedures at participating hospitals were established by local regulation and the appropriate ethics committees.
+PMC3128457|S45||Data Collection Setting||Study settings—Patients were recruited from 10 hospitals in India and Colombia.
+PMC3128457|S46||Data Collection Setting||The sites were selected according to their interest in the topic, adequate facilities for conducting computed tomography, and expected recruitment rate.
+PMC3128457|S48||Interventions||Participants were randomly allocated to receive a loading dose of 1 g tranexamic acid infused over 10 minutes, followed by an intravenous infusion of 1 g over eight hours, or matching placebo (sodium chloride 0.9%).
+PMC3128457|S50||Outcomes||We obtained two brain computed tomograms for each participant, the first before randomisation and the second 24–48 hours later.
+PMC3128457|S51||Outcomes||A neuroradiologist (Zoe Morris) who was blind to treatment allocation and clinical findings evaluated the first and second scans.
+PMC3128457|S52||Outcomes||Readings of the two scans were done twice (with the second reading blind to the results of the first reading) by central reading of the electronic DICOM image files in Digital Jacket software (DesAcc, Chicago IL, USA).
+PMC3128457|S53||Outcomes||The size of intra-parenchymal haemorrhages, haemorrhagic contusions, subdural epidural haematomas, subarachnoid haemorrhage, ischaemic lesions; mass effect; and the overall amount of tissue damage were assessed with validated rating scales based on previous work (see box).12 13 14 15 16
+PMC3128457|S54||Outcomes||The individual ratings and measurements were recorded on a rating form developed for the purposes of this study (shown in appendix on bmj.com).
+PMC3128457|S55||Outcomes||Methods used to measure brain lesions detected with computed tomography
+PMC3128457|S56||Outcomes||Parenchymal haemorrhage and haemorrhagic contusion (defined as focal low attenuation with patchy and relatively ill-defined haemorrhage)
+PMC3128457|S57||Outcomes||Measurement—A representative slice at the centre of the haematoma was selected.
+PMC3128457|S58||Outcomes||The maximum linear length (A) in cm was multiplied by the maximum width perpendicular to A (B) and the maximum depth (C) in cm.
+PMC3128457|S59||Outcomes||The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval thickness listed on the CT scan.
+PMC3128457|S60||Outcomes||To obtain the volume in cm3 the final product (A.B.C) was divided by 2
+PMC3128457|S62||Outcomes||Measurement—A representative slice near the centre of the haematoma was selected.
+PMC3128457|S63||Outcomes||The linear distance in cm between each corner of the subdural crescent was used to determine the length (A).
+PMC3128457|S64||Outcomes||The width (B) was measured as the maximum thickness in cm of haematoma from the inner table of the skull perpendicular to the length.
+PMC3128457|S65||Outcomes||The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval thickness listed on the CT scan.
+PMC3128457|S66||Outcomes||To obtain the volume in cm3 the final product (A.B.C) was divided by 2.
+PMC3128457|S68||Outcomes||Measurement—A representative slice near the centre of the haematoma was selected.
+PMC3128457|S69||Outcomes||The linear distance in cm between each corner of the epidural lens shape was used to determine the length (A).
+PMC3128457|S70||Outcomes||The width (B) was measured as the maximum thickness in cm of haematoma (B) from the inner table of the skull perpendicular to the length.
+PMC3128457|S71||Outcomes||The depth (C) was determined by multiplying the number of slices on which haematoma is visible by the slice interval listed on the CT scan.
+PMC3128457|S72||Outcomes||To obtain the volume in cm3, the final product (A.B.C) was divided by 2
+PMC3128457|S74||Outcomes||Measurement—Blood within subarachnoid spaces between pia and arachnoid membranes.
+PMC3128457|S75||Outcomes||Haemorrhage thickness was categorised as ≤5 mm or >5 mm.
+PMC3128457|S76||Outcomes||The thickness was rated within a representative sulcus
+PMC3128457|S78||Outcomes||Measurement—Focal low attenuation in distribution indicating arterial ischaemic cause rather than traumatic contusional injury rated according to validated scale for ischaemic stroke
+PMC3128457|S80||Outcomes||Measurement—(1) sulcal effacement, (2) ventricular effacement, (3) uncal herniation, (4) cisterns compressed, (5) cisterns absent, (6) Midline shift (in mm)
+PMC3128457|S81||Outcomes||The primary outcome was total haemorrhage growth, defined as the difference in the combined volume (mL) of all intracranial haemorrhagic lesions (intra-parenchymal haematoma + haemorrhagic contusion + subdural haematoma + epidural haematoma) from the first to the second scan.
+PMC3128457|S82||Outcomes||Secondary outcomes were (a) significant haemorrhage growth defined as an increase by ≥25% of total haemorrhage in relation to its initial volume, (b) new intracranial haemorrhage (apparent on the second scan but not apparent on the first), (c) change in subarachnoid haemorrhage grade, (d) mass effect, and (e) new focal cerebral ischaemic lesions (apparent on the second scan but not the first).
+PMC3128457|S83||Outcomes||The clinical outcomes were death from any cause, dependency, and the need for neurosurgical intervention.
+PMC3128457|S84||Outcomes||Clinical outcomes were recorded at hospital discharge, at 28 days after randomisation, or death, whichever occurred first.
+PMC3128457|S85||Outcomes||Dependency was measured using the five point modified Oxford handicap scale (mOHS).17
+PMC3128457|S86||Outcomes||We dichotomised the scale into “dependent” (fully dependent requiring attention day and night, or dependent but not requiring constant attention) or “independent” (some restriction in lifestyle but independent, minor symptoms, or no symptoms).
+PMC3128457|S87||Outcomes||We also reported a “composite poor outcome” defined as a patient who developed one or more of the following during the follow-up period—significant haemorrhage growth, new intracranial haemorrhage, new focal cerebral ischaemic lesions, the need for neurosurgery, or death.
+PMC3128457|S88||Outcomes||Adverse events that were serious, unexpected, and suspected to be related to the study treatment were reported separately.
+PMC3128457|S90||Sample Size Determination||Assuming an initial intracranial haemorrhage volume of 20 mL, an average haemorrhage growth of 7 mL in the control group and a correlation of 0.6 between initial and follow-up volumes, we estimated that a trial with 300 patients would have 80% power (α=0.05) to detect a 35% reduction in haemorrhage growth.
+PMC3128457|S91||Sample Size Determination||We pre-specified in the protocol that, as this study was nested within the main CRASH-2 trial, even if the planned sample size of 300 patients was not achieved, recruitment would stop at the same time as the main CRASH-2 trial.
+PMC3128457|S93||None||After eligibility had been confirmed and the locally approved consent procedures had been completed, patients were randomly assigned.
+PMC3128457|S94||Randomization Type||Randomisation was balanced by centre, with an allocation sequence based on a block size of eight.
+PMC3128457|S95||Random Allocation Sequence Generation||We used a local pack system that selected the lowest numbered treatment pack from a box containing eight numbered packs.
+PMC3128457|S96||Similarity of Interventions||Apart from the pack number, the treatment packs were identical.
+PMC3128457|S97||Allocation Concealment Mechanism,Randomization Implementation||The pack number was recorded on the entry form, which was sent to the international trial coordinating centre in London, UK.
+PMC3128457|S98||Allocation Concealment Mechanism||Once the treatment pack number was recorded, the patient was included in the trial whether or not the treatment pack was opened or the allocated treatment started.
+PMC3128457|S99||Blinding Procedure||All site investigators and trial coordinating centre staff were masked to treatment allocation.
+PMC3128457|S101||Similarity of Interventions||Tranexamic acid and placebo ampoules were indistinguishable.
+PMC3128457|S102||None||Tranexamic acid was manufactured by Pharmacia (Pfizer, Sandwich, UK) and placebo by St Mary’s Pharmaceutical Unit, Cardiff, UK.
+PMC3128457|S103||None||The treatment packs were prepared by an independent clinical trial supply company (Bilcare, Crickhowell, UK).
+PMC3128457|S104||Similarity of Interventions||Correct blinding and coding of ampoules was assured by independent random testing of each batch by high performance liquid chromatography to confirm the contents.
+PMC3128457|S106||Statistical Methods for Other Analyses||We assessed the intra-observer reliability of haemorrhage measurements using the intra-class correlation coefficient.
+PMC3128457|S107||Statistical Methods for Other Analyses||We assessed the reliability of binary measurements with the κ statistic.
+PMC3128457|S108||Statistical Methods for Outcome Comparison||For continuous variables measuring the haemorrhage, we used the average measurement of the two independent readings in all analyses.
+PMC3128457|S109||Statistical Methods for Outcome Comparison||For binary variables, we considered an intracranial finding to be present only if it was reported as present on both readings of a particular patient’s brain scan.
+PMC3128457|S110||Statistical Methods for Other Analyses||We used generalised linear models adjusted for baseline variables.
+PMC3128457|S111||Statistical Methods for Other Analyses||Covariates included in the adjustment were Glasgow coma scale and age.
+PMC3128457|S112||Statistical Methods for Other Analyses||For computed tomography outcomes, we also adjusted for time from injury to first and second scan and for initial haemorrhage volume.
+PMC3128457|S113||Statistical Methods for Other Analyses||In our analysis of mass effect we adjusted for initial mass effect.
+PMC3128457|S114||Statistical Methods for Other Analyses||Adjusted effects are considered in the primary analysis, but both adjusted and unadjusted effect measures are reported.
+PMC3128457|S115||Statistical Methods for Other Analyses||We reported 95% confidence intervals for all the effects estimated and P values for the adjusted analyses.
+PMC3128457|S116||Statistical Methods for Outcome Comparison||Haemorrhage growth was analysed using multiple linear regression (analysis of covariance), the main factor being the treatment group.
+PMC3128457|S117||Statistical Methods for Outcome Comparison||Outcomes are reported combined and separately for patients who did or did not undergo neurosurgical evacuation between the first and second computed tomography scan.
+PMC3128457|S118||Statistical Methods for Outcome Comparison||Binary outcomes were analysed using logistic regression.
+PMC3128457|S119||Statistical Methods for Outcome Comparison||Subarachnoid haemorrhage scale was compared in the two groups using a non-parametric rank test (Kruskal-Wallis).
+PMC3128457|S120||Statistical Methods for Outcome Comparison||All analyses were undertaken on an intention to treat basis.
+PMC3128457|S121||Statistical Methods for Outcome Comparison||To evaluate the clinical relevance of the primary surrogate outcome selected in this study, we also analysed the clinical effect of haemorrhage growth.
+PMC3128457|S122||Statistical Methods for Outcome Comparison||We conducted a logistic regression analysis with dependency (as defined by the modified Oxford handicap scale) as the outcome and haemorrhage growth as the main exposure variable, with adjustment by the potential confounders of initial haemorrhage volume, Glasgow coma scale, age, time from injury to computed tomography, and treatment.
+PMC3128457|S123||Statistical Methods for Outcome Comparison||We used the statistical software package Stata (version SE/11·0) from StataCorp.
+PMC3128457|S124||None||Role of the funding source
+PMC3128457|S125||None||The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.
+PMC3128457|S126||None||The Writing Committee had full access to all data in the study and had final responsibility for the decision to submit for publication.
+PMC3266479|S8||None||We did a multicentre, placebo-controlled, parallel-group, randomised trial at 46 UK intensive-care units between December, 2006, and March, 2010.
+PMC3266479|S9||None||Intubated and mechanically ventilated patients (aged ≥16 years) within 72 h of ARDS onset were randomly assigned to receive either salbutamol (15 μg/kg ideal bodyweight per h) or placebo for up to 7 days.
+PMC3266479|S10||None||Randomisation was done by a central telephone or web-based randomisation service with minmisation by centre, pressure of arterial oxygen to fractional inspired oxygen concentration (PaO2/FIO2) ratio, and age.
+PMC3266479|S11||None||All participants, caregivers, and investigators were masked to group allocation.
+PMC3266479|S12||None||The primary outcome was death within 28 days of randomisation.
+PMC3266479|S14||Registry/Number||This trial is registered, ISRCTN38366450 and EudraCT number 2006-002647-86.
+PMC3348565|S8||None||We did a randomised placebo-controlled trial to compare oral 100 000 IU (2·5 mg) vitamin D3 with placebo given to children aged 1–11 months in Kabul, Afghanistan.
+PMC3348565|S9||None||Randomisation was by use of a computer-generated list.
+PMC3348565|S10||None||Vitamin D or placebo was given by fieldworkers once every 3 months for 18 months.
+PMC3348565|S11||None||Children presenting at the study hospital with signs of pneumonia had their diagnosis confirmed radiographically.
+PMC3348565|S12||None||Our primary outcome was the first or only episode of radiologically confirmed pneumonia.
+PMC3348565|S13||None||Our analysis was by intention to treat.
+PMC3348565|S14||None||This study is registered with ClinicalTrials.gov, number NCT00548379.
+PMC3386495|S8||None||In this international, multicentre, randomised, open-treatment trial, patients were allocated to 0·9 mg/kg intravenous recombinant tissue plasminogen activator (rt-PA) or to control.
+PMC3386495|S9||None||The primary analysis was of the proportion of patients alive and independent, as defined by an Oxford Handicap Score (OHS) of 0–2 at 6 months.
+PMC3386495|S10||Registry/Number||The study is registered, ISRCTN25765518.
+PMC3391717|S8||None||We did this phase 3 randomised, placebo-controlled trial in eight centres in Europe and South America.
+PMC3391717|S9||None||We randomly assigned (with computer-generated random numbers, with permuted blocks of four, stratified by centre) patients aged 18 years or older with an aneurysmal pattern of subarachnoid haemorrhage on brain imaging who were admitted to hospital within 4 days of haemorrhage, to receive intravenous magnesium sulphate, 64 mmol/day, or placebo.
+PMC3391717|S10||None||We excluded patients with renal failure or bodyweight lower than 50 kg.
+PMC3391717|S11||None||Patients, treating physicians, and investigators assessing outcomes and analysing data were masked to the allocation.
+PMC3391717|S12||None||The primary outcome was poor outcome—defined as a score of 4–5 on the modified Rankin Scale—3 months after subarachnoid haemorrhage, or death.
+PMC3391717|S13||None||We analysed results by intention to treat.
+PMC3391717|S14||None||We also updated a previous meta-analysis of trials of magnesium treatment for aneurysmal subarachnoid haemorrhage.
+PMC3391717|S15||None||This study is registered with controlled-trials.com (ISRCTN 68742385) and the EU Clinical Trials Register (EudraCT 2006-003523-36).
+PMC4392313|S8||None||Randomised, multicentre, two-part, phase III trial (24-week double-blind, 80-week open-label), MEASURE, evaluated lipid and lipoprotein levels, high-density lipoprotein (HDL) particle composition, markers of coagulation, thrombosis and vascular function by pulse wave velocity (PWV) in 132 patients with RA who received TCZ or placebo.
+PMC4515982|S7||None||Patients with probable laboratory-supported, probable or definite ALS were enrolled by 25 Italian centres and randomly assigned (1:1) to receive intravenous rhEPO 40 000 IU or placebo fortnightly as add-on treatment to riluzole 100 mg daily for 12 months.
+PMC4515982|S8||None||The primary composite outcome was survival, tracheotomy or >23 h non-invasive ventilation (NIV).
+PMC4515982|S9||None||Secondary outcomes were ALSFRS-R, slow vital capacity (sVC) and quality of life (ALSAQ-40) decline.
+PMC4515982|S10||None||Tolerability was evaluated analysing adverse events (AEs) causing withdrawal.
+PMC4515982|S11||None||The randomisation sequence was computer-generated by blocks, stratified by centre, disease severity (ALSFRS-R cut-off score of 33) and onset (spinal or bulbar).
+PMC4515982|S12||None||The main outcome analysis was performed in all randomised patients and by intention-to-treat for the entire population and patients stratified by severity and onset.
+PMC4515982|S13||Registry/Number||The study is registered, EudraCT 2009-016066-91.
+PMC4770816|S36||None||The methods used in PAST-BP have been reported in detail elsewhere.14
+PMC4770816|S37||Trial Design||PAST-BP was an individually randomised trial in which participants were allocated to either an intensive blood pressure target (<130 mm Hg or a 10 mm Hg reduction if baseline pressure was <140 mm Hg) or a standard target (<140 mm Hg).
+PMC4770816|S38||Data Collection Setting||Patients were recruited from 106 general practices (of which 99 contributed at least one patient) in England during 2009-11.
+PMC4770816|S39||Eligibility Criteria||Patients were considered for inclusion if they were on the practice’s TIA/stroke register.
+PMC4770816|S40||Eligibility Criteria||They were excluded if their baseline systolic blood pressure was less than 125 mm Hg, they were already taking three or more antihypertensive agents, they had a greater than 20 mm Hg postural change in systolic blood pressure on standing, they were already being treated to a 130 mm Hg systolic blood pressure target, they were unable to provide informed consent, or there was insufficient corroborative evidence that they had had a stroke or TIA.
+PMC4770816|S41||None||Potentially eligible participants were identified using a search of the general practice’s clinical computer system.
+PMC4770816|S42||None||A general practitioner reviewed this list to exclude patients for whom a study invitation would be inappropriate.
+PMC4770816|S43||None||The remainder were sent a letter inviting them to attend a study clinic appointment held at their general practice by a research nurse, where written informed consent was obtained.
+PMC4770816|S45||Randomization Implementation||The central study team at the University of Birmingham randomised patients, with minimisation based on age, sex, diabetes mellitus, atrial fibrillation, baseline systolic blood pressure, and general practice.
+PMC4770816|S46||Randomization Implementation||The research nurse ascertained treatment allocation either by telephone or online.
+PMC4770816|S47||Blinding Procedure||Neither participants nor clinicians were blinded to treatment allocation.
+PMC4770816|S48||Outcomes||A research nurse who was not otherwise involved in the patient’s care obtained the primary outcome measure (blood pressure) by using an automated sphygmomanometer.
+PMC4770816|S50||Interventions||Patients randomised to the intensive arm were given a target systolic blood pressure of below 130 mm Hg or a target reduction of 10 mm Hg if their baseline blood pressure was between 125 and 140 mm Hg.
+PMC4770816|S51||Interventions||The target in the standard arm was less than 140 mm Hg, irrespective of baseline blood pressure.
+PMC4770816|S52||Interventions||Apart from the different blood pressure targets, the management of blood pressure was the same in both groups and was carried out by a practice nurse (to monitor blood pressure) and a general practitioner (responsible for modifying blood pressure treatment).
+PMC4770816|S53||Interventions||Patients whose systolic blood pressure at baseline was above target (everyone in the intensive arm and those patients in the standard arm whose blood pressure was ≥140 mm Hg) had their antihypertensive treatment reviewed by their general practitioner.
+PMC4770816|S54||Interventions||A practice nurse would see all patients at three month intervals (if their blood pressure was below target when previously measured) or after one month (if previous blood pressure was above target) and refer to the general practitioner if the blood pressure was above target.
+PMC4770816|S55||Interventions||The protocol required no formal down-titration of treatment if blood pressure was below target, but general practitioners had discretion to change or reduce treatment in the light of symptoms attributable to blood pressure drugs.
+PMC4770816|S56||Interventions||We provided general practitioners with treatment protocols that reflected the national guidelines for blood pressure lowering in operation at the time of the trial.15
+PMC4770816|S57||Interventions||In both arms of the trial, the general practitioners had access to a computer based algorithm that actively suggested drugs and dosage if the participant was above target.
+PMC4770816|S58||Interim Analyses/Stopping Guidelines||Follow-up ceased if the participant had a major cardiovascular event.
+PMC4770816|S59||Outcomes||The primary outcome was change in systolic blood pressure between baseline and one year.
+PMC4770816|S60||Outcomes||Participants had blood pressure measured by a research nurse (separate from the practice nurse’s measurements described above) at baseline and at six and 12 months.
+PMC4770816|S61||Outcomes||Blood pressure was measured using a British Hypertension Society validated automated electronic monitor supplied and validated for the study.16
+PMC4770816|S62||Outcomes||Blood pressure was measured in a standardised way, with the patient seated for five minutes and then six measurements taken at one minute intervals.
+PMC4770816|S63||Outcomes||The primary outcome was the average of the second and third measurements.
+PMC4770816|S64||Outcomes||Secondary measures of blood pressure included diastolic blood pressure at six and 12 months, systolic blood pressure at six months, and proportion achieving target blood pressures at 12 months.
+PMC4770816|S65||Outcomes||For the systolic blood pressure, we also calculated the means of readings 2-6 and 5-6 to look for any differential effects with regard to habituation to blood pressure measurement.
+PMC4770816|S66||None||We identified clinical events through review of the general practice record at 12 months.
+PMC4770816|S67||None||These comprised major cardiovascular events (composite of fatal and non-fatal stroke, myocardial infarction, fatal coronary heart disease, or other cardiovascular death), emergency hospital admissions, and deaths.
+PMC4770816|S68||None||Participants were flagged for mortality at the NHS Central Register.
+PMC4770816|S69||None||Side effects were assessed through the use of standard questionnaires.14
+PMC4770816|S71||Sample Size Determination||We estimated that a sample size of 305 patients in each group would detect a 5 mm Hg difference in systolic blood pressure between groups with 90% power at a significance level of 5% assuming a standard deviation of 17.5 mm Hg, 10% loss to follow-up, 5% mortality, and 10% major vascular events.5 7
+PMC4770816|S72||Statistical Methods for Outcome Comparison||We used mixed models for the primary analysis, adjusting for baseline blood pressure, age group (<80 years, ≥80 years), sex, diabetes mellitus, atrial fibrillation, and practice (as a random effect).
+PMC4770816|S73||Statistical Methods for Outcome Comparison||The principal analysis was a complete case analysis.
+PMC4770816|S74||Statistical Methods for Outcome Comparison||We also explored the potential effects of missing values by the use of three approaches: multiple imputation, group mean, and last available value.
+PMC4770816|S75||Statistical Methods for Other Analyses||Subgroup analyses were pre-specified for diabetes mellitus, atrial fibrillation, and age group.
+PMC4770816|S76||Statistical Methods for Other Analyses||In addition, we did a subgroup analysis by baseline systolic blood pressure (<140 mm Hg, ≥140 mm Hg).
+PMC4770816|S77||Statistical Methods for Other Analyses||We compared the number of consultations, treatment changes, and side effects by using generalised mixed modelling, adjusting for the same variables as in the primary outcome.
+PMC4770816|S78||Statistical Methods for Other Analyses||For clinical events, we calculated hazard ratios and their 95% confidence intervals by using Cox proportional hazards modelling, adjusting for the same covariates mentioned previously.
+PMC4770816|S79||Statistical Methods for Other Analyses||We checked the proportional hazard assumption with Schoenfeld residual plots and by including interaction terms in the model (for each term by time).
+PMC4770816|S80||None||For all clinical event analyses, we censored patients at the time of the first event relevant to that analysis.
+PMC4770816|S81||None||Thus, if a patient had more than one emergency hospital admission, only the first one would be counted.
+PMC4770816|S82||Statistical Methods for Outcome Comparison||We used SAS 9.2 and Stata 12 for analyses.
+PMC4770816|S84||None||The study was discussed by a stroke survivor group who agreed that it was an important research question and that blood pressure was an important outcome for them.
+PMC4770816|S85||None||Patients were involved in developing plans for recruitment and design of the study through representation on the Trial Steering Committee.
+PMC4770816|S86||None||No patients were asked to advise on interpretation or writing up of the results.
+PMC4770816|S87||None||We plan to disseminate the results of the research to the relevant patient community through local and nationally organised stroke groups.
+PMC5529963|S9||None||We compared the function of HDL in 18 patients with RA and 18 matched healthy controls.
+PMC5529963|S10||None||Subsequently, patients were randomised to (methotrexate+infliximab (M+I) (5 mg/kg)) or methotrexate+placebo (M+P) infusions for 54 weeks.
+PMC5529963|S11||None||At week 54 and thereafter, all patients received infliximab therapy until completion of the trial (110 weeks), enabling assessment of the impact of 1 year of infliximab therapy in all patients.
+PMC5529963|S12||None||HDL functional properties were assessed at baseline, 54 weeks and 110 weeks by measuring the impact on endothelial nitric oxide (NO) bioavailability and superoxide production (SO), paraoxonase activity (PON-1) and cholesterol efflux.

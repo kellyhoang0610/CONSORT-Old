@@ -1,0 +1,95 @@
+3a|Trial Design|This was a multicenter, stratified (6 to 11 years and 12 to 17 years of age, with imbalanced randomisation [2:1]), double-blind, placebo-controlled, parallel-group study conducted in the United States (41 sites).
+3a|Trial Design|In 6 tertiary neonatal intensive care units, we randomized infants in a double-blind, randomized controlled trial comparing the clinical consequences of transfusing red blood cells stored 7 days or less versus standard practice between May 2006 and June 2011.
+3b|Changes TO Trial Design|During the trial, this committee recommended that the group receiving the lowest dose of otamixaban (0.035 mg/kg/h) be discontinued because of clinical evidence of inadequate anticoagulation.
+3b|Changes TO Trial Design|The protocol was immediately amended in accordance with that recommendation, and participants were subsequently randomly assigned in 2:2:2:2:1 ratio to the remaining otamixaban and control groups, respectively.
+4a|Eligibility Criteria|Eligible participants were all adults aged 18 or over with HIV who met the eligibility criteria for antiretroviral therapy according to the Malawian national HIV treatment guidelines (WHO clinical stage III or IV or any WHO stage with a CD4 count <250/mm3) and who were starting treatment with a BMI <18.5.
+4a|Eligibility Criteria|Exclusion criteria were pregnancy and lactation or participation in another supplementary feeding programme.
+4a|Eligibility Criteria|We assessed the eligibility of all infants admitted to each of the 6 participating neonatal intensive care units that had a birth weight of <1250 grams and required one or more red cell transfusions for the treatment of anemia.
+4a|Eligibility Criteria|We excluded premature infants who had already received a red cell transfusion, were scheduled to undergo an exchange transfusion or to receive a directed donation, had rare blood types which would lead to difficulty with cross-matching, were moribund upon admission to the neonatal intensive care unit, were not expected to survive because of a severe congenital anomaly, or whose attending clinical team specifically requested fresh red cells. 
+4a|Eligibility Criteria|A representative in the infants circle of care approached families to ask if they would be willing to have a research coordinator speak to them about the study.
+4a|Eligibility Criteria|If yes, the coordinator spoke with the family, described the study (risks / benefits, voluntary participation, procedures). 
+4a|Eligibility Criteria|Families were given adequate time to reflect on the information, had any questions answered and gave free and voluntary consent.
+4a|Eligibility Criteria|We did not approach parents or guardians of infants when the healthcare team thought it was inappropriate (e.g. extreme family crisis, child protection issues, etc.).
+4a|Eligibility Criteria|Ethnicity of the infants was not ascertained, however, research coordinators ascertained parental ethnicity through direct parent interview or by chart review as ethnicity has been associated with variation in neonatal intensive care outcomes.
+4b|Data Collection Setting|The study took place at the antiretroviral therapy clinic of Queen Elizabeth Central Hospital in Blantyre, Malawi, from January 2006 to April 2007.
+4b|Data Collection Setting|Blantyre is the major commercial city of Malawi, with a population of 1 000 000 and an estimated HIV prevalence of 27% in adults in 2004.
+5|Interventions|In POISE, patients received the first dose of the study drug (i.e., oral extended-release metoprolol 100 mg or matching placebo) 2-4 h before surgery.
+5|Interventions|Study drug administration required a heart rate of 50 bpm or more and a systolic blood pressure of 100 mm Hg or greater; these haemodynamics were checked before each administration.
+5|Interventions|If, at any time during the first 6 h after surgery, heart rate was 80 bpm or more and systolic blood pressure was 100 mm Hg or higher, patients received their first postoperative dose (extended-release metoprolol 100 mg or matched placebo) orally.
+5|Interventions|If the study drug was not given during the first 6 h, patients received their first postoperative dose at 6 h after surgery.
+5|Interventions|12 h after the first postoperative dose, patients started taking oral extended-release metoprolol 200 mg or placebo every day for 30 days.
+5|Interventions|If a patient’s heart rate was consistently below 45 bpm or their systolic blood pressure dropped below 100 mm Hg, study drug was withheld until their heart rate or systolic blood pressure recovered; the study drug was then restarted at 100 mg once daily.
+5|Interventions|Patients whose heart rate was consistently 45-49 bpm and systolic blood pressure exceeded 100 mm Hg delayed taking the study drug for 12 h.
+5|Interventions|Premature infants were randomly assigned to receive either red cells stored 7 days or less – the fresh red cell group- or current standard issue red cells with storage time ranging from 2 to 42 days depending on site – the standard red cell group.
+5|Interventions|For all neonatal red cell transfusions, standard issue red cell units were divided into aliquots to increase utilization and to decrease waste due to the smaller volume of red cells required for premature infants.
+5|Interventions|Adherence to the 7 days or less rule was monitored by local blood bank personnel in order to maintain blinding, and blood bank log statistics were collated by the blinded statistician at the coordinating centre and provided to the Data and Safety Monitoring Board.
+5|Interventions|In the standard red cell group, each aliquot was designated for use in a single infant up to its expiry date.
+5|Interventions|All blood products used in this trial were collected by Canadian Blood Services or Héma-Québec and prepared by the local hospital blood bank according to local institutional practice.
+5|Interventions|Red cells and other blood products were administered in accordance with the standard clinical practice at each site.
+5|Interventions|Transfusion triggers were not protocolized and there were no other controlled interventions in keeping with the trial’s pragmatic design. 
+6a|Outcomes|The primary endpoint with respect to efficacy in psoriasis was the proportion of patients achieving a 75% improvement in psoriasis activity from baseline to 12 weeks as measured by the PASI [psoriasis area and severity index].
+6a|Outcomes|Additional analyses were done on the percentage change in PASI scores and improvement in target psoriasis lesions.
+6a|Outcomes|The primary endpoint was change in body weight during the 20 weeks of the study in the intention-to-treat population.
+6a|Outcomes|Secondary efficacy endpoints included change in waist circumference, systolic and diastolic blood pressure, prevalence of metabolic syndrome.
+6a|Outcomes|The primary outcome was a composite outcome comprised of mortality and major neonatal morbidities associated with acute organ dysfunction or failure.
+6a|Outcomes|In addition to death, the four major morbidities comprising the composite outcome were, bronchopulmonary dysplasia, retinopathy of prematurity, necrotizing enterocolitis, and intraventricular hemorrhage.
+6a|Outcomes|Red cell transfusions have been associated with the morbidities included in our composite outcome.
+6a|Outcomes|Bronchopulmonary dysplasia was defined as oxygen dependency for at least 28 days at 36 weeks post-menstrual age.
+6a|Outcomes|The presence of retinopathy of prematurity (presence of extraretinal fibro vascular tissue on ophthalmological examination) of stage 3 or greater was recorded as an outcome.
+6a|Outcomes|A diagnosis of necrotizing enterocolitis was based upon a grading of stage 2 or greater, using Bell’s criteria, and a diagnosis of intraventricular hemorrhage was based on grade III or greater (blood in ventricles with evidence of ventricular enlargement) using Papile’s criteria.
+6a|Outcomes|All relevant major morbidities comprising the primary outcomes that were present on the day of randomization were recorded.
+6a|Outcomes|We followed infants for up to 90 days of their stay in the neonatal intensive care unit to ascertain whether they met the threshold and definition for one of the complications included in the composite outcome.
+6a|Outcomes|Individual complications had to occur after the point of randomization (the receipt of the initial transfusion) in order to be included as part of the primary outcome.
+6a|Outcomes|We also assessed worsening of outcomes over the study duration. Individual elements of the composite outcome were adjudicated independently by two neonatologists blinded to the study group allocation. 
+6a|Outcomes|As secondary outcomes, we recorded rates of individual complications comprising the composite outcome and rates of nosocomial infections.
+6a|Outcomes|Nosocomial infections were categorized as clinically suspected and positive cultures.
+6a|Outcomes|Clinically suspected infections implied that attending teams observed signs suggestive of infection.
+6a|Outcomes|This information was derived from medical progress notes and included administration of antibiotics.
+6a|Outcomes|We also recorded information on the site of infection and the organism identified by culture.
+6a|Outcomes|As tertiary outcomes, we examined length of mechanical ventilation and supplemental oxygen use, need for vasopressors, other blood products, and invasive vascular access as well as length of stay in the neonatal intensive care unit.
+6a|Outcomes|Rates of minor and major interventions were also examined.
+6a|Outcomes|Major interventions included all major surgical procedures such as laparatomies and thoracotomies.
+6a|Outcomes|Minor interventions included laser therapy for the retinopathy of prematurity, tracheostomy, endoscopic procedures such as bronchoscopy, and all transcutaneous procedures such as nephrostomy and cardiac catheterizations.
+6b|Changes to Outcomes|The original primary endpoint was all-cause mortality, but, during a masked analysis, the data and safety monitoring board noted that overall mortality was lower than had been predicted and that the study could not be completed with the sample size and power originally planned. 
+6b|Changes to Outcomes|The steering committee therefore decided to adopt co-primary endpoints of all-cause mortality (the original primary endpoint), together with all-cause mortality or cardiovascular hospital admissions (the first prespecified secondary endpoint).
+7a|Sample Size Determination|To detect a reduction in PHS (postoperative hospital stay) of 3 days (SD 5 days), which is in agreement with the study of Lobo et al with a two-sided 5% significance level and a power of 80%, a sample size of 50 patients per group was necessary, given an anticipated dropout rate of 10%.
+7a|Sample Size Determination|We estimated that a total of 450 infants would be needed to detect a difference between groups, with a two-tailed α of 0.05 and a (1-β) of 0.80, for a comparison of 2 independent proportions if there was an absolute decrease of 15 percent in the composite outcome measure.
+7a|Sample Size Determination|Our initial estimate of sample size included an assumption of blood bank non-compliance of 10 percent.
+7a|Sample Size Determination|The Data and Safety Monitoring Board, blinded to treatment group, reviewed two formal interim analyses and regular reports of our primary composite outcome as well as serious adverse events.
+7a|Sample Size Determination|With Data and Safety Monitoring Board approval, we re-adjusted our sample size calculation to 372 infants after the first interim analysis demonstrated an actual non-compliance rate of less than 4 percent.
+7b|Interim Analyses/Stopping Guidelines|Two interim analyses were performed during the trial.
+7b|Interim Analyses/Stopping Guidelines|The levels of significance maintained an overall P value of 0.05 and were calculated according to the O’Brien-Fleming stopping boundaries.
+7b|Interim Analyses/Stopping Guidelines|This final analysis used a Z score of 1.985 with an associated P value of 0.0471.
+8a|Random Allocation Sequence Generation|Independent pharmacists dispensed either active or placebo inhalers according to a computer generated randomisation list.
+8b|Randomization Type|Randomization sequence was created using Stata 9.0 (StataCorp, College Station, TX) statistical software and was stratified by center with a 1:1 allocation using random block sizes of 2, 4, and 6.
+9|Allocation Concealment Mechanism|The allocation sequence was concealed from the researcher (JR) enrolling and assessing participants in sequentially numbered, opaque, sealed and stapled envelopes.
+9|Allocation Concealment Mechanism|Aluminium foil inside the envelope was used to render the envelope impermeable to intense light.
+9|Allocation Concealment Mechanism|To prevent subversion of the allocation sequence, the name and date of birth of the participant was written on the envelope and a video tape made of the sealed envelope with participant details visible.
+9|Allocation Concealment Mechanism|Carbon paper inside the envelope transferred the information onto the allocation card inside the envelope and a second researcher (CC) later viewed video tapes to ensure envelopes were still sealed when participants’ names were written on them.
+9|Allocation Concealment Mechanism|Corresponding envelopes were opened only after the enrolled participants completed all baseline assessments and it was time to allocate the intervention.
+10|Randomization Implementation|Determination of whether a patient would be treated by streptomycin and bed-rest (S case) or by bed-rest alone (C case) was made by reference to a statistical series based on random sampling numbers drawn up for each sex at each centre by Professor Bradford Hill; the details of the series were unknown to any of the investigators or to the co-ordinator.
+10|Randomization Implementation|After acceptance of a patient by the panel, and before admission to the streptomycin centre, the appropriate numbered envelope was opened at the central office; the card inside told if the patient was to be an S or a C case, and this information was then given to the medical officer of the centre.
+10|Randomization Implementation|Research coordinators at each centre randomly assigned eligible infants using an Interactive Voice Response (IVR) system.
+10|Randomization Implementation|Following eligibility screening by the research coordinator, the system generated a unique number.
+10|Randomization Implementation|The research coordinator then telephoned the hospital blood bank staff and reported the number.
+10|Randomization Implementation|In turn, blood bank staff referred to a manual of unique numbers generated by an independent statistician prior to study activation to determine the study intervention allocated to the randomized patient.
+10|Randomization Implementation|The randomization schedule was stratified by site in variable blocks of 4 and 6.
+10|Randomization Implementation|Allocation only occurred once an order to transfuse was received and only if a supply of red cells stored 7 days or less was available at the time of allocation.
+10|Randomization Implementation|Randomized patients received all transfusions during the study period according to the intervention they were allocated.
+11a|Blinding Procedure|Whereas patients and physicians allocated to the intervention group were aware of the allocated arm, outcome assessors and data analysts were kept blinded to the allocation.
+11a|Blinding Procedure|Study investigators, research coordinators, attending care teams and the infants’ families were blinded to treatment allocation.
+11b|Similarity of Interventions|Jamieson Laboratories Inc provided 500-mg immediate release niacin in a white, oblong, bisect caplet.
+11b|Similarity of Interventions|We independently confirmed caplet content using high performance liquid chromatography.
+11b|Similarity of Interventions|The placebo was matched to the study drug for taste, color, and size, and contained microcrystalline cellulose, silicon dioxide, dicalcium phosphate, magnesium stearate, and stearic acid.
+12a|Statistical Methods for Outcome Comparison|We used an analysis of covariance (ANCOVA) for the primary endpoint and for secondary endpoints waist circumference, blood pressure, and patient-reported outcome scores; this was supplemented by a repeated measures analysis.
+12a|Statistical Methods for Outcome Comparison|The ANCOVA model included treatment, country, and sex as fixed effects, and body weight at randomisation as covariate.
+12a|Statistical Methods for Outcome Comparison|We aimed to assess whether data provided evidence of superiority of each liraglutide dose to placebo (primary objective) and to orlistat (secondary objective).
+12a|Statistical Methods for Outcome Comparison|Our primary analysis was conducted using an intent-to-treat approach, and therefore included all randomized infants.
+12a|Statistical Methods for Outcome Comparison|Baseline characteristics of patients in the two treatment groups were reported using frequency distributions and descriptive statistics including measures of central tendency and dispersion.
+12a|Statistical Methods for Outcome Comparison|The principal analysis of our composite measure of major neonatal morbidities and mortality was an unadjusted Chi-Square test comparing the proportion of events in each treatment group.
+12a|Statistical Methods for Outcome Comparison|Further logistic regression analyses examined the effect of adjustment for clinically relevant covariates which were known strong predictors of the outcome (gender, birth weight, gestational age) or that reflected imbalances at baseline.
+12a|Statistical Methods for Outcome Comparison|We measured the average storage using the age of each individual transfusion episode as well as weighting the average age by the volume of each transfusion episode.
+12a|Statistical Methods for Outcome Comparison|An “as per protocol” analysis of infants compliant with their allocated treatment was also conducted to examine the robustness of our primary estimates.
+12a|Statistical Methods for Outcome Comparison|All analyses were conducted using SAS (version 9.2).
+12b|Statistical Methods for Other Analyses|Proportions of patients responding were compared between treatment groups with the Mantel-Haenszel χ2 test, adjusted for the stratification variable, methotrexate use.
+12b|Statistical Methods for Other Analyses|We conducted pre-specified subgroup analyses by birth weight, gestational age, and neonatal acuity. 
