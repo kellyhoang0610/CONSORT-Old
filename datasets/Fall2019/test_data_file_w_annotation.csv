@@ -1,0 +1,457 @@
+CONSORT_Item,PMCID,sentence_id,start_char_pos,end_char_pos,clean_sentence_text
+5,PMC3002766,S60,8571,8704, Patients required parenteral oral inhaled prostanoid treatment study first discontinued study treatment
+5,PMC3002766,S61,8705,8831, Use glibenclamide fluconazole calcineurin inhibitors ciclosporin A allowed due potential drug interactions
+6a,PMC3002766,S65,9206,9484, Maintenance cardinal ulcer healing required recurrence contiguous original location week 24 healing occurred week 12 12 weeks observation permissible extension treatment period healing occurred week 12
+6a,PMC3002766,S67,9743,10540, Secondary exploratory end points included 1 reduction new DUs overall DU number proportions patients new DUs number new DUs week 24 time onset number new DUs week 24 change baseline week 24 total number DUs 2 healing time healing baseline DUs new DUs week 24 proportions patients healing DUs end week 24 3 pain disability parameters changes baseline week 24 pain cardinal ulcer overall hand pain assessed visual analogue scales hand disability index averaged score three Health Assessment Questionnaire HAQ domains dressing grooming grip hygiene HAQ disability index18 19
+12a,PMC3002766,S73,11374,11477, Means  SEs presented numerical variables Kaplan  Meier estimates time to event variables
+4a,PMC3002834,S50,5403,5509, A detailed description inclusion exclusion criteria study previously published 14
+5,PMC3002834,S57,6333,6486, Patients received EPO treatment 50  IU kg week Neorecormon Roche Pharmaceuticals Woerden Netherlands standard treatment without EPO one year
+6a,PMC3002834,S69,8355,8614, Blood 100   l incubated anti CD34 FITC BD Pharmingen California USA anti KDR PE R D Systems anti CD45 PE Cy7 BD Pharmingen antibodies 45  min Erythrocytes lysed analysed flow cytometry Beckman Coulter California USA
+6a,PMC3002834,S82,10064,10213, The potential EPC outgrowth excrete paracrine factors stimulate endothelial cell migration assessed vitro scratch wound assay 20
+12a,PMC3002834,S90,10775,10871, Data expressed mean SD parametric data median IQR non parametric data
+12a,PMC3002834,S91,10872,10961, Differences groups analysed using Student s test Mann  Whitney test
+0,PMC3016167,S47,6193,6302, Anti scorpion antivenom purchased Haffkine Biopharma Mumbai given participants trial
+12a,PMC3016167,S65,8618,8660, We analysed results SPSS 17 software
+12b,PMC3016167,S66,8661,8823, Blood pressure pulse rate measured different time points repeated factors treatment group included between participant measure
+4a,PMC3016167,S70,8922,9097, Between March 2009 February 2010 recruited patients reported Bawaskar Hospital Mahad research centre stung Mesobuthus tamulus fig 1 2 4 6 31
+4a,PMC3016167,S76,9875,10108, Major exclusion criteria patient reporting six hours sting pregnant women history taking prazosin antivenom history bronchial asthma history allergic reaction foreign serum refusal give consent
+0,PMC3016167,S80,10394,10524, The study protocol approved independent ethics committee Mumbai registration number 1433 1999G B B S D IEC 08 39
+0,PMC3016167,S84,10872,11052, Severity clinical manifestations morbidity mortality depend time lapsed sting hospital admission well grade case arrival 5 9 18 33 34
+0,PMC3016167,S87,11431,11852, Grade 2 signs symptoms autonomic storm characterised acetylcholine excess parasympathetic stimulation vomiting profuse sweating body ropey salivation bradycardia premature ventricular contraction hypotension priapism men sympathetic stimulation hypertension blood pressure 140 90 tachycardia heart rate 120 per minute cold extremities transient systolic murmur
+0,PMC3016167,S89,12104,12206, Grade 4 tachycardia hypotension without pulmonary oedema warm extremities warm shock
+0,PMC3016167,S91,12340,12483, After giving written consent eligible patients examined one two authors baseline data recorded standard form
+6a,PMC3016167,S95,13158,13269, These findings noted admission 00 00 30 minutes 1 2 4 6 8 10 14 18 24 hours
+0,PMC3016167,S103,14264,14429, The maximum volume venom injected one sting Indian red scorpion 1 5 mg mL antivenom capable neutralising 1 2 1 5 mg venom 36
+0,PMC3018567,S48,6973,7035, The area occupied urban rural fishing communities
+0,PMC3018567,S49,7036,7159, Helminth infection highly prevalent area 19 malaria diarrhoea pneumonia common young children 20
+4b,PMC3018567,S50,7160,7416, The study population consisted pregnant women presented government funded antenatal clinic Entebbe General Hospital April 9 2003 Nov 24 2005 roughly 70 pregnant women study area received antenatal care 21
+9,PMC3018567,S58,8852,9042, Treatments packed sealed envelopes labelled allocation number colleagues Medical Research Council Unit Entebbe otherwise contribute trial
+5,PMC3018567,S65,9967,10174, Infants received BCG polio immunisation birth diphtheria pertussis tetanus Haemophilus influenzae hepatitis B polio immunisation 6 10 14 weeks measles immunisation 9 months
+6a,PMC3018567,S71,10968,11033, Planned secondary outcomes growth anaemia age 1 year
+6a,PMC3018567,S77,11830,11930, Total serum IgG IgG4 IgE responses tetanus toxoid measured ELISA webappendix p 1
+6a,PMC3018567,S82,13161,13458, Stool samples examined helminth ova Kato Katz method28 charcoal culture Strongyloides sterocoralis infection 29 two Kato Katz slides prepared sample examined hookworm ova within 30 mins preparation examined next day species
+6a,PMC3018567,S86,13797,14021, Quality control Kato Katz analyses provided Vector Control Programme Ministry Health Uganda haematology malaria parasitology UK National External Quality Assessment Schemes
+6a,PMC3018567,S87,14030,14087, Mothers HIV serology done rapid test algorithm 30
+7a,PMC3018567,S101,15995,16406, For either maternal treatment assuming interaction treatments number would give 80 power detect rate ratios 0  82 malaria 0  91 diarrhoea 0  76 pneumonia p values less 0  05 assuming frequency disease placebo groups 50 per 100 person years malaria 33 190 per 100 person years diarrhoea 34 25 per 100 person years pneumonia 35
+12a,PMC3018567,S117,18616,18803, For community reported illness data generalised estimating equation approach exchangeable correlation structure used model effects treatment repeated binary outcomes
+12a,PMC3018567,S118,18804,18921, Odds ratios ORs effects treatment vertical HIV transmission calculated logistic regression
+0,PMC3018567,S129,20111,20232, AME full access data study final responsibility decision submit publication
+0,PMC3028347,S42,6385,6464, The study overseen Data Safety Monitoring Board convened NICHD
+5,PMC3028347,S48,7022,7155, We randomly assigned participants 1 1 randomization ratio receive metformin hydrochloride placebo twice daily meals
+9,PMC3028347,S52,7650,7797, Pharmacy personnel involved conduct study dispensed study capsules containers differed participant code number
+5,PMC3028347,S55,8208,8391, The typical adult maximum dose selected goal weight severely obese participants enrolled Table 1 anticipated similar adults
+5,PMC3028347,S56,8392,8540, We decreased dose 250 mg dose 1 week participants reported difficulty tolerating study medication attempted increase
+5,PMC3028347,S58,8670,8756, Once tolerated dose found attempts made increase dosage prescribed
+5,PMC3028347,S61,8929,9163, After conclusion randomized phase participants prescribed increasing doses commercially available metformin two divided doses maximum dose 2 000 mg day plus daily multivitamin additional 6 months
+5,PMC3028347,S62,9173,9479, TABLE 1 Baseline participant characteristics          During study phases participant parent guardian met monthly dietitian administered weight reduction lifestyle modification program promoted reduced energy diet increased physical activity decreased inactivity
+6a,PMC3028347,S73,11919,12144, At baseline follow up samples obtained fasted state collected measurement ALT AST total HDL cholesterol direct LDL cholesterol triglycerides Synchron LX20 Beckman Coulter Fullerton CA
+6a,PMC3028347,S76,12469,12616, Vitamin B12 insulin measured chemiluminescent immunoassays using Siemens Healthcare Diagnostics Los Angeles CA Immulite instruments
+6a,PMC3028347,S79,13094,13301, Subjects parents also interviewed clinical pharmacist used structured questionnaire containing comprehensive list symptoms designed identify potential adverse drug reactions 45
+6a,PMC3028347,S82,13511,13619, Secondary outcomes changes BMI body weight fat mass conclusion randomized phase
+6a,PMC3028347,S83,13620,13796, Tertiary outcomes included changes skinfold thickness body circumferences visceral adipose tissue insulin resistance laboratory components metabolic syndrome
+12b,PMC3028347,S102,16471,16913, To assess sensitivity results missing at random assumption conducted three additional analyses assuming participants withdrew study major weight gain kg lb received metformin weight gain whereas received placebo major weight gain received placebo weight gain whereas received metformin major weight gain
+12a,PMC3028347,S108,17571,17680, We examined baseline characteristics simple tests case categorical data exact tests
+5,PMC3036630,S56,7058,7179, On day exhaled nitric oxide measured first followed assessment atopy mannitol challenge testing
+6a,PMC3036630,S59,7258,7411, Spirometry MasterscreenPneumo Jaeger W rzburg Germany performed trained respiratory technician according latest recommendations 16
+5,PMC3036630,S63,7783,7887, Patients inhaled sequential doses 5 10 20 40 80 160 160 160 mg mannitol via inhaler
+5,PMC3036630,S64,7888,7995, The test stopped 15 fall FEV1 achieved cumulative dose 635 mg administered
+5,PMC3036630,S66,8174,8280, If patient cough spontaneously mannitol challenge asked expectorate
+6a,PMC3036630,S72,8597,8703, Whole sputum samples processed according protocol validated laboratory 20
+6a,PMC3036630,S75,8869,8947, Sputum samples containing 80 non squamous cells excluded analysis
+12a,PMC3036630,S84,9973,10045, Non normally distributed data log transformed analysis
+0,PMC3036630,S85,10046,10123, If cells counted value 0 1 taken log transformation
+7a,PMC3036630,S88,10403,10598, A sample size estimation showed detectable value correlation r alternative hypothesis sample 23 patients n 1 0 55 power  0 808 alpha  0 05
+4a,PMC3070271,S37,4772,4904, Exclusion criteria included previous treatment IL 1 inhibitor condition contraindicating immunosuppressive treatment
+0,PMC3070271,S38,4905,5134, Intravenous intra articular steroids immunosuppressive drugs disease modifying antirheumatic drugs DMARDs stopped least 1 month study onset longer periods time depending half life
+0,PMC3070271,S39,5135,5239, All patients entering study parents patients aged 18 gave written informed consent
+0,PMC3070271,S51,6264,6433, Measurement serum amyloid A ferritin levels assessment percentage glycosylated ferritin gene expression profiling analysis cytokine measurements
+0,PMC3070271,S52,6434,6517, concentration anakinra plasma pharmacokinetic analyses
+5,PMC3070271,S56,6680,6978, Tapering dose corticosteroids allowed M1 visit reduction 0 4  0 5 mg kg monthly daily doses mg kg 0 3  0 4 mg kg doses 1 1 5 mg kg 0 2  0 3 mg kg 0 6 1 mg kg 0 1  0 2 mg kg 0 3 0 6 mg kg mg kg doses 0 3 mg kg
+6a,PMC3070271,S69,8639,8711, Illumina modules containing 10 genes included analysis
+6a,PMC3070271,S74,9155,9531, To responders modified American College Rheumatology Pediatric ACRpedi 30 score built purpose trial patients fulfil three following conditions 1 ACRpedi 30 response15 2 absence disease related fever body temperature 38  C past 8 days 3 50 decrease compared D1 normalisation CRP ESR values
+6a,PMC3070271,S75,9540,9833, Modified ACRpedi 30 50 70 100 responses assessed throughout study included improvement 30 50 70 100 respectively least three six core criteria juvenile rheumatoid arthritis worsening 30 one criteria
+6a,PMC3070271,S76,9834,10131, The criteria physician s global assessment disease activity patient s parents global assessment overall wellbeing number joints active arthritis number joints limited range motion Childhood Health Assessment Questionnaire ESR 15
+4b,PMC3076731,S34,4252,4416, Members British Society Paediatric Endocrinology Diabetes recruited patients participating paediatric endocrinology departments UK hospitals
+8b,PMC3076731,S47,5961,6141, The British Society Paediatric Endocrinology Diabetes Clinical Trials Unit Cambridge UK used minimisation weighted randomisation study  s two randomisations 20
+5,PMC3076731,S54,7295,7418, All participants received growth hormone preparation choice 10 mg m2 week daily subcutaneous injections
+5,PMC3076731,S55,7419,7521, Oral oxandrolone SPA Milan Italy given 0 05 mg kg day maximum daily dose 2 5 mg
+5,PMC3076731,S56,7522,7704, Oral ethinylestradiol UCB Pharma Slough UK given daily follows regardless age starting year 1 2 year 2 4 year 3 four months 6 8 10
+11b,PMC3076731,S60,8108,8358, White uncoated flat bevelled edge placebo tablets 7 5 mm diameter Essential Nutrition Brough UK specially manufactured match size weight appearance oxandrolone 2 5 mg ethinylestradiol 2 tablets respectively
+6a,PMC3076731,S68,9527,9614, Biochemical analyses followed local protocols results reported centrally
+12a,PMC3076731,S77,10716,10807, We estimated effects two randomisations separately using multiple regression
+6a,PMC3103669,S52,7820,7849, Flares patient reported
+6a,PMC3103669,S53,7850,8021, For flare patients recorded diary start date affected joint day severity pain see supplementary material details
+6a,PMC3103669,S56,8540,8596, Adverse events AEs reported throughout study
+12a,PMC3103669,S67,10339,10491, Data analysed according analysis covariance ANCOVA treatment group allopurinol dose baseline BMI baseline covariates
+12b,PMC3103669,S69,10637,10960, Therefore post hoc analysis using negative binomial model treatment group allopurinol dose baseline BMI baseline covariates log time study offset performed adjustment made multiplicity see supplementary material details analyses secondary outcomes
+6a,PMC3109952,S63,8787,8879, Clearance plantar wart defined restoration normal skin close inspection
+6a,PMC3109952,S71,9597,10030, Secondary outcomes included complete clearance plantar warts 12 weeks controlling age whether plantar wart treated previously type wart b second model explore effect patient preferences c clearance plantar wart six months number warts 12 weeks e time clearance wart f patient satisfaction treatment g adverse events
+0,PMC3109952,S81,11397,11524, All analyses conducted intention treat basis including patients groups randomised
+12a,PMC3109952,S82,11525,11777, Analyses conducted SAS version 9 2 SAS Institute NC USA SPSS version 17 0 2 SPSS using two sided significance tests 5 significance level primary outcome measure 1 significance level secondary outcome measures
+0,PMC3109952,S93,13178,13416, Participants whose plantar warts cleared treated censored calculated duration trial date trial exit date last available assessment 183 days trial cessation appropriate
+0,PMC3109952,S97,14015,14160, Data patient satisfaction treatment adverse events summarised treatment group statistical analyses performed
+0,PMC3128457,S41,5035,5114, Participants  The trial conducted cohort CRASH 2 trial participants
+4a,PMC3128457,S43,5661,5749, Pregnant women patients second brain scan possible excluded
+6a,PMC3128457,S53,6880,7167, The size intra parenchymal haemorrhages haemorrhagic contusions subdural epidural haematomas subarachnoid haemorrhage ischaemic lesions mass effect overall amount tissue damage assessed validated rating scales based previous work see box 12 13 14 15 16
+6a,PMC3128457,S63,8283,8391, The linear distance cm corner subdural crescent used determine length A
+6a,PMC3128457,S66,8676,8747, To obtain volume cm3 final product A B C divided 2
+6a,PMC3128457,S70,9083,9220, The width B measured maximum thickness cm haematoma B inner table skull perpendicular length
+6a,PMC3128457,S80,10242,10398, Measurement  1 sulcal effacement 2 ventricular effacement 3 uncal herniation 4 cisterns compressed 5 cisterns absent 6 Midline shift mm
+7a,PMC3128457,S91,12467,12694, We pre specified protocol study nested within main CRASH 2 trial even planned sample size 300 patients achieved recruitment would stop time main CRASH 2 trial
+8b,PMC3128457,S94,12873,12970, Randomisation balanced centre allocation sequence based block size eight
+8a,PMC3128457,S95,12971,13091, We used local pack system selected lowest numbered treatment pack box containing eight numbered packs
+9,PMC3128457,S96,13092,13155, Apart pack number treatment packs identical
+0,PMC3128457,S112,14726,14858, For computed tomography outcomes also adjusted time injury first second scan initial haemorrhage volume
+12a,PMC3128457,S123,16198,16278, We used statistical software package Stata version SE 11  0 StataCorp
+6a,PMC3242163,S38,5389,5513, During in trial treatment period routine follow up study clinics 4 8 12 months every 6 months
+6a,PMC3242163,S43,6093,6293, During in trial post trial periods information sites registered cancers certified causes deaths requested UK national registries randomised patients
+11a,PMC3242163,S46,6704,6855, Events coded according prespecified criteria1 clinical staff coordinating centre unaware study treatment allocation
+6a,PMC3242163,S48,7041,7353, The effects treatment allocation cholesterol concentrations assessed assaying blood obtained study clinics sample 5 participants scheduled follow up time year participants attending follow up August 2000 February 2001 2
+6a,PMC3242163,S55,8821,9182, Secondary outcomes major vascular events year follow up various subcategories patients major coronary events ie non fatal myocardial infarction coronary death strokes revascularisations separately deaths vascular non vascular causes separately cancers sites excluding non melanoma skin cancer
+0,PMC3242163,S60,9680,9808, The writing committee full access study data final responsibility decision submit publication
+4a,PMC3266479,S38,4046,4168, Eligible participants intubated mechanically ventilated adults aged 16 years older within 72 h ARDS onset
+4a,PMC3266479,S40,4245,4557, We defined ARDS accordance American European Consensus criteria 14 pressure arterial oxygen fractional inspired oxygen concentration PaO2 FIO2 ratio 200 mm  Hg less bilateral pulmonary infiltrates consistent oedema absence clinically evident left atrial hypertension
+10,PMC3266479,S51,6108,6251, Patients randomly assigned 1 1 ratio centralised 24 h telephone web based randomisation service University Aberdeen UK
+6a,PMC3266479,S63,7988,8177, Salbutamol placebo administered dedicated intravenous line rate 0  075 mL kg ideal bodyweight per h equivalent 15 salbutamol per kg ideal bodyweight per h
+6a,PMC3266479,S66,8523,8608, Infusion study drug stopped 7 days earlier clinically indicated
+6a,PMC3266479,S68,8654,8766, The primary outcome 28 day mortality defined death end calendar day 28 randomisation
+6a,PMC3266479,S72,9488,9719, We defined organ failure free days number days first 28 days randomisation patient received cardiovascular renal liver neurological support defined Critical Care Minimum Dataset 21
+6b,PMC3266479,S73,9728,10037, We plan collect data cause death original trial protocol however early termination trial increased 28 day mortality salbutamol group data main cause death ascertained participants dying within 28 days randomisation
+6b,PMC3266479,S74,10038,10147, We requested causes death recorded death certificate disorder directly leading death
+12a,PMC3266479,S82,11135,11220, We compared primary outcome dichotomous outcomes using RRs 95 CIs
+12a,PMC3266479,S84,11294,11441, We analysed 28 day mortality survival analysis comparison two groups hazard ratios 95 CIs Kaplan  Meier curve
+12a,PMC3266479,S85,11442,11525, All reported p values two sided adjusted multiple comparisons
+6a,PMC3321505,S38,6970,7135, In addition screening upper endoscopy baseline patients endoscopy weeks 8 16 24 earlier premature study termination study therapy
+5,PMC3321505,S41,7538,7615, The study medication dispensed 8 week supply 0 8 16 weeks
+0,PMC3321505,S44,7874,7922, Urinalysis done baseline final visit
+6a,PMC3321505,S46,7977,8274, The primary end point REDUCE 1 gastric ulcers identified endoscopy 24 week study period three secondary end points upper GI ulcers gastric duodenal duodenal ulcers GI complications bleeding ulcer perforation gastric outlet obstruction due ulcer
+7a,PMC3321505,S50,8772,8974, A sample size REDUCE 1 875 calculated based 90 power detect difference 6 vs 14 incidence gastric ulcers two sided 0 05 assuming 15 drop out rate
+7a,PMC3321505,S51,8975,9178, A sample size REDUCE 2 600 calculated based 90 power detect difference 6 vs 16 incidence upper GI ulcers two sided 0 05 assuming 15 drop out rate
+12a,PMC3321505,S59,10607,10975, Comparison treatment arms crude proportions patients ulcers 24 weeks Cochran  Mantel  Haenszel test stratified two randomization risk factor strata use low dose aspirin anticoagulants prior ulcer history specified primary statistical analysis time sample size calculation study initiation
+0,PMC3321505,S61,11375,11475, Numbers needed to treat NNTs absolute risk reductions calculated using crude proportions
+12b,PMC3321505,S69,12711,12919, Statistical comparison study groups population patients randomized also prespecified common adverse events occurring 5 patients Cochran  Mantel  Haenszel test
+12b,PMC3321505,S70,12920,13179, In addition prespecified comparison proportion patients reported symptom consistent dyspepsia e g dyspepsia upper abdominal pain discomfort epigastric pain discomfort stomach pain discomfort without nausea
+0,PMC3321505,S71,13188,13329, All study patients provided written informed consent study approved institutional review boards participating centers
+0,PMC3348565,S53,6681,6935, Furthermore study field supervisors mapped region independently verify accuracy maps Agha Khan Trust Culture recruitment visited every house mapped region identify families young children
+4a,PMC3348565,S59,7751,7842, Children vomiting excluded temporarily enrolled 2 weeks later recovery
+9,PMC3348565,S64,8756,9085, By use randomisation list pharmacist Department Pharmacy Aga Khan University Hospital Karachi prepared 100  000 IU 2  5 mg vitamin D3 cholecalciferol olive oil Sinochem Ningbo Laboratory China placebo olive oil sealed 2 mL plastic syringes labelled unique identification numbers
+5,PMC3348565,S68,9432,9761, We chose quarterly supplementation regimen routine programme conditions quarterly regimen likely better adherence daily regimen 13 14 shown effective maintaining serum vitamin D concentration within normal ranges 2  3 months French high risk infant population 16
+6a,PMC3348565,S83,12515,12611, We defined new episode pneumonia episode happening 15 days longer first
+7a,PMC3348565,S93,14677,14808, Assuming 20 loss follow up allowing protocol violations intended recruit 3050 children 18 months follow up
+12a,PMC3348565,S103,15977,16093, We made initial comparisons time to an episode two groups log rank tests Kaplan  Meier plots
+3a,PMC3386495,S36,5792,5888, IST 3 pragmatic10 international multicentre randomised controlled open treatment trial
+5,PMC3386495,S57,8982,9153, Patients allocated control group avoid treatment rt PA received stroke care clinical environment allocated rt PA group
+5,PMC3386495,S58,9154,9233, Both treatment groups blood pressure monitored closely first 24 h
+0,PMC3386495,S72,11180,11241, Additional secondary outcomes reported separately
+11a,PMC3386495,S75,12082,12254, Data potential reports events extracted trial database presented adjudication committee masked treatment allocation
+11a,PMC3386495,S80,13047,13227, With exception 276 patients treated double blinded phase trial treatment given openly neither patient treating clinicians masked
+3b,PMC3386495,S92,15212,15363, However clear 2007 obtaining sample 6000 longer feasible Steering Committee agreed revised recruitment target 11
+0,PMC3386495,S95,15584,16044, We monitored quality integrity accumulating clinical data according protocol agreed study sponsors involved central statistical monitoring according principles described Buyse colleagues 28 supplemented onsite monitoring detailed source data verification random sample 10 records centres recruited 30 patients patterns data centre seemed anomalous
+0,PMC3386495,S97,16304,16447, All baseline data 7 day 6 month outcome data subject verification checks built randomisation data management system
+0,PMC3386495,S98,16448,16589, We monitored baseline postrandomisation imaging provided additional cross checks recruited patients centre performance
+0,PMC3386495,S104,17527,17870, Masked analysis patients baseline characteristics showed clear differences key prognostic factors age stroke severity degree ischaemic change baseline CT MRI patients randomly assigned different times stroke onset might complicate estimation effect treatment overall subgroups 11
+12a,PMC3386495,S105,17871,18266, Therefore primary analysis effect treatment primary outcome adjusted logistic regression linear effects following covariates age National Institutes Health stroke scale NIHSS score time onset stroke symptoms randomisation presence vs absence ischaemic change prerandomisation brain scan according expert assessment
+0,PMC3386495,S109,18761,19032, The writing group persuaded recent empirical evidence ordinal method statistically efficient effectively reducing sample size required stroke trials29 robust substantial deviations proportional assumption 30
+0,PMC3386495,S117,20155,20297, The corresponding author full access data study final responsibility decision submit publication
+0,PMC3391717,S47,5816,5872, We obtained ethics committee approval every centre
+10,PMC3391717,S53,6343,6428, Local investigators assigned participant box lowest study number
+11a,PMC3391717,S55,6518,6635, Patients treating physicians investigators assessing outcomes analysing data masked allocation
+0,PMC3391717,S61,7419,7517, Furthermore symptomatic hypermagnesaemia occur patients normal renal function 14
+5,PMC3391717,S62,7518,7686, Therefore participants received fixed daily dose 64 mmol magnesium sulphate reconstituted 0  9 saline placebo soon possible providing consent
+0,PMC3391717,S65,7985,8041, Monitoring magnesium concentration mandatory
+5,PMC3391717,S66,8042,8161, We discouraged permitted investigators treat hypomagnesaemia admission intravenous magnesium sulphate
+5,PMC3391717,S67,8162,8373, Investigators treated patients according local protocols included oral nimodipine 360 mg day bed rest aneurysm occlusion early aneurysm occlusion aimed achievement normovolaemia
+6a,PMC3391717,S69,8510,8684, The research nurse study coordinator collected outcome data centrally assessed Rankin score semi structured telephone interview patient s language
+0,PMC3391717,S73,9049,9183, In pilot study 35 patients untreated group poor outcome compared 27 intervention group RR 0  77 10
+0,PMC3391717,S81,9997,10256, We planned sensitivity analyses assigning patients lost follow up either good outcome poor outcome irrespective treatment group assigning patients unknown randomisation codes either magnesium group placebo group
+0,PMC3391717,S85,10785,10909, We used Cochrane Review Manager version 5 1 software meta analysis SPSS version 15 0 analyses
+0,PMC3391717,S89,11227,11365, The corresponding author full access data study final responsibility decision submit publication
+4a,PMC3420230,S56,10124,10623, Women eligible confirmed intrahepatic cholestasis pregnancy itching pregnancy causes excluded association serum bile acid level greater upper limit normal unit  s laboratory pruritus raised alanine transaminase levels 100 IU L 24 0 40 6 weeks pregnant ursodeoxycholic acid comparison 34 1 37 6 weeks singleton pregnancy timing delivery comparison
+4a,PMC3420230,S57,10624,11018, We excluded women aged less 18 years laboratory confirmed hepatitis A hepatitis B pre eclampsia primary hepatic disorders known antitrypsin deficiency current drugs causing deranged liver enzymes known lethal fetal anomaly allergy component ursodeoxycholic acid placebo capsules unable give informed consent
+4a,PMC3420230,S59,11096,11298, Women multiple pregnancy eligible ursodeoxycholic acid comparison participating clinicians indicated women normally delivered 38 weeks  gestation
+10,PMC3420230,S65,11912,12190, A member research team confirmed participant eligibility entered agreed minimum amount pre randomisation registration data secure internet based data form participant randomisation including results routine biochemical blood tests
+9,PMC3420230,S77,13859,14022, The participant collected trial drug placebo hospital pharmacy local trial  s pharmacist selected pack appropriate number
+0,PMC3420230,S89,15431,15553, Participants able withdraw trial either request discretion treating clinician
+11b,PMC3420230,S94,16190,16358, All capsules packaged labelled provide blinded treatment packs production unit pharmacy department Nottingham University Hospitals NHS Trust
+5,PMC3420230,S97,16571,16847, All women received two capsules twice day clinical improvement itching biochemical improvement serum bile acids alanine transaminase levels dose increased increments two capsules per day every 3 14 days maximum 2 g day
+5,PMC3420230,S99,17156,17254, By consensus obstetricians could arrange delivery latter group 40 0 weeks  gestation
+0,PMC3420230,S107,18510,18691, It widely believed induction general increases rate caesarean sections although recent trials timing delivery term shown significant effect 12 13
+6a,PMC3420230,S111,19408,19507, For timing delivery comparison chose secondary maternal perinatal outcomes
+0,PMC3420230,S115,20221,20581, They identified pregnant women raised bile acid levels collaboration hospital  s chemical pathology laboratory undertook postnatal case note review ascertain whether diagnosis intrahepatic cholestasis pregnancy confirmed treatment given whether participation trial offered
+0,PMC3420230,S116,20582,20665, The number deliveries per centre per month audit period obtained
+7a,PMC3420230,S120,20960,21123, However detailed power calculations possible without accurate estimate event rate clinical spectrum likely recruits trial
+0,PMC3420230,S125,21797,21977, Trial analysis followed intention treat principle women infants analysed according original randomised allocation irrespective adherence crossovers
+12a,PMC3420230,S134,23279,23450, We estimated risk ratios risk differences yes outcomes used binary regression log link risk ratios linear link risk differences
+5,PMC3489506,S43,5726,5837, If child tube fed capsule opened study treatment suspended appropriate medium 12
+5,PMC3489506,S44,5838,5884, At randomisation child given 0 5 mg
+6a,PMC3489506,S64,8355,8438, The primary outcome total sleep time measured diaries completed parents
+6a,PMC3489506,S65,8439,8586, Each night minutes times child went sleep woke next morning calculated minus night time awakenings
+6a,PMC3489506,S71,9880,9993, We measured salivary melatonin concentrations participant calculate dim light melatonin onset DLMO
+6a,PMC3489506,S77,10571,10724, A minimum 2 ml saliva obtained asking child spit tube placing saliva sponge buccal cavity child  s mouth
+0,PMC3489506,S79,10851,10876, DNA analyses ongoing
+12a,PMC3489506,S91,12312,12473, Continuous outcomes presented means standard deviations baseline study completion week 12 change baseline group
+6b,PMC3489506,S94,12843,13068, During trial recruitment observed high rates missing data 66 actigraphy re designated sleep onset latency secondary outcome removed Bonferroni multiplicity adjustment21 protocol amendment
+7a,PMC3489506,S97,13353,13491, Allowing 20 missing data based observed rates time amendment calculated needed 57 participants group
+0,PMC3502035,S37,7530,7826, A parallel system Pharmaceutical Benefits Scheme provides subsidised drug treatment Australians capped payments chronic illness prescriptions drugs generated general practitioners managing people chronic conditions hypertension
+0,PMC3502035,S48,9544,9660, Quality control sites general practitioners achieved visits randomisation study end
+0,PMC3502035,S49,9661,9799, The study independently monitored routine visits case report forms verified clinical records 20 patients
+0,PMC3502035,S50,9800,9874, We used standardised operating procedures data queries management
+0,PMC3502035,S59,10974,11178, We randomised study achieve prespecified blood pressure target within run in period specifically withdrawn lost follow up blinded allocation
+6a,PMC3502035,S63,11669,11880, We defined aberrant measurements lowest reading 10 mm Hg systolic blood pressure 5 mm Hg diastolic blood pressure highest three seated readings
+6a,PMC3502035,S64,11881,11971, If occurred participant rested three minutes procedure repeated
+6a,PMC3502035,S79,14805,15017, Key secondary endpoints included change mean sitting systolic diastolic blood pressure absolute risk cardiovascular disease within five years based Framingham risk score5 applicable
+12a,PMC3502035,S88,16756,16921, If blood pressure values missing 26 weeks carried forward last recorded blood pressure measurement randomisation primary endpoint analysis
+12a,PMC3502035,S89,16922,16998, Baseline outcome data analysed using SPSS Windows version 19 0
+0,PMC3502035,S92,17150,17392, We carried efficacy analyses intention treat population consisting participants randomised intervention arm usual care arm least one recorded blood pressure measurement randomisation
+11a,PMC3551223,S42,5744,5945, The treatment allocation individual patients remained blinded patients site personnel data analysis interpretation team except separate subgroup technically preparing data
+0,PMC3551223,S43,5954,6126, The study approved appropriate institutional review boards ethics committees written informed consent obtained patient study participation
+4a,PMC3551223,S47,6810,6997, For inclusion patients also required bone damage radiographic evidence least one joint definite erosion attributable RA determined central reader
+4a,PMC3551223,S48,6998,7355, Major exclusion criteria included severe comorbidities previous use biological agents well conventional disease modifying antirheumatic drug treatment methotrexate month 3 months leflunomide preceding baseline visit see supplementary data available online full inclusion exclusion criteria
+8b,PMC3551223,S51,7561,7670, Randomisation stratified study site baseline DAS28  ESR 5 5 using minimisation algorithm
+0,PMC3551223,S60,8900,9005, Data collected baseline included demographics disease characteristics RA disease duration
+12a,PMC3551223,S73,11262,11341, Analysis covariance models used compare continuous outcome measures
+0,PMC3551223,S77,12152,12356, The following additional endpoints analysed accordance European League Against Rheumatism EULAR ACR collaborative recommendations reporting RA disease activity clinical trials 11
+0,PMC3590447,S45,7488,7600, Ethics approval obtained South West Multicentre Research Ethics Committee reference MREC 97 6 12
+0,PMC3590447,S55,8524,8672, In two groups receiving immunosuppressive treatment addition supportive therapy baseline data recorded new treatment began
+5,PMC3590447,S63,9660,9808, We reduced dose patient developed leucopenia weekly full blood counts advised interrupted leucopenia severe
+5,PMC3590447,S65,10038,10082, We reduced dose toxicity evident
+6a,PMC3590447,S69,10383,10592, The primary endpoint 20 decline excretory renal function baseline readings calculated patients Cockcroft Gault equation standard methodology start trial
+6a,PMC3590447,S70,10601,10793, Secondary endpoints proteinuria measured 24 h urinary collections estimated protein  creatinine ratios multiplying ratio mg mmol 10 severe adverse events
+7a,PMC3590447,S78,12162,12267, After allowing estimated dropout rate 10 concluded needed recruit 116 patients
+12a,PMC3590447,S83,12743,12894, We used log rank test survival endpoints repeated measures analysis variance fowr continuous longitudinal data eg proteinuria
+0,PMC3590447,S87,13334,13496, In 2008 trial adopted onto National Institute Health Research portfolio assigned UK Clinical Research Network identification number 2579
+0,PMC3590447,S90,13653,13786, The sponsors study role study design data collection data analysis data interpretation writing report
+4a,PMC3623038,S36,4669,4783, The appearance axial signs immediately initiation STN stimulation also exclusion criterion
+3a,PMC3623038,S39,5132,5200, We performed 90 day double blind placebo controlled pilot study
+6a,PMC3623038,S52,6501,7319, Secondary efficacy criteria included gait velocity m s cadence steps min ii motor handicap assessed overall UPDRS motor score axial subscore sum items 18 speech 19 facial expression 22 neck rigidity 27 arising chair 28 posture 29 gait 30 postural stability iii LID assessed overall Dyskinesia Rating Scale score axial subscore iv hypertonia axial flexors extensors assessed mean work joules performed 10 passive trunk movements 30  s CON TREX isokinetic dynamometer CMV AG D bendorf Switzerland 10 v trunk flexor extensor strength measured mean work joules performed three repetitions 30  s active flexion extension mode isokinetic dynamometer 10
+12a,PMC3623038,S78,10252,10377, All statistical tests two tailed performed SAS software V 9 2 SAS Institute Inc Cary North Carolina USA
+8b,PMC3641608,S55,9527,9613, Both factorial randomisations stratified centre age 7 7  12 years
+10,PMC3641608,S57,9976,10051, Randomisation undertaken clinicians phoning local trials centre
+0,PMC3641608,S62,10568,11081, All subsequent results participants assigned routine laboratory monitoring returned clinicians whereas results randomisation participants allocated clinically driven monitoring returned requested clinical management authorised centre project leaders haemoglobin results week 8 automatically returned basis early anaemia DART 16 grade 4 laboratory toxicities protocol safety criteria grades defined17 apart neutrophils18
+5,PMC3641608,S65,11407,11492, Children reviewed every 4  6 weeks nurse using standard symptom checklist
+12a,PMC3641608,S79,14675,14749, Categorical variables compared exact indicated tests
+12a,PMC3641608,S81,14869,15095, Laboratory measurements adherence compared across randomised groups time generalised estimating equations independent correlation closest measurement scheduled visit within equally spaced windows
+0,PMC3641608,S82,15096,15152, All comparisons randomised intention to treat
+0,PMC3641608,S91,16058,16161, The corresponding author full access data responsibility submission publication
+4a,PMC3668094,S37,5134,5368, The inclusion criteria age year respiratory illness duration symptoms days laboratory confirmed influenza either evidence severe influenza defined positive result diagnostic test H5N1
+5,PMC3668094,S43,6201,6327, Oseltamivir capsules paediatric oseltamivir suspensions placebo suspensions provided Roche Basel Switzerland
+5,PMC3668094,S48,6888,6935, All patients received five days oseltamivir
+0,PMC3668094,S52,7398,7496, Patients positive results influenza virus met inclusion criteria randomised
+6a,PMC3668094,S58,8096,8252, Quantitative RT PCR influenza virus A B lower limit quantification 103 copies cDNA per mL performed described previously 23
+6a,PMC3668094,S62,8560,8719, The primary efficacy endpoint proportion patients detectable viral RNA RT PCR combined nasal throat swab sample day five
+6a,PMC3668094,S63,8720,8908, We also examined numerous secondary clinical endpoints mortality mechanical ventilation admission intensive care symptoms resumption activity virological endpoints
+6a,PMC3668094,S64,8909,9177, We chose proportion patients viral RNA shedding day five start treatment primary endpoint represents duration one standard course oseltamivir clinical failure generally evaluated five days treatment
+12a,PMC3668094,S76,10585,10840, We used conditional univariate logistic regression calculate compare odds ratios viral clearance categorical data treatment arms stratified study site Mantel Haenszel method numbers patients small
+12b,PMC3668094,S79,11118,11395, In regression models quantifiable viral load data used cDNA copies mL data samples positive qualitative RT PCR quantifiable given value 103 cDNA copies c mL lower limit detection quantitative RT PCR
+12a,PMC3668094,S82,11698,11865, Normally distributed continuous data compared two arms unpaired test Mann Whitney U Kruskal Wallis tests used skewed data
+4a,PMC3686261,S41,5939,6096, Adults aged 18  years older RA diagnosis defined 1987 revised American College Rheumatology criteria 20 eligible enrolment
+6a,PMC3686261,S50,7435,7544, The distribution TA DAS28 values patients divided tertiles assessment point
+6a,PMC3686261,S55,8039,8146, At time point patient asked change employment status previous visit
+0,PMC3756454,S38,5537,5723, The study performed approval local research ethics committee accordance Declaration Helsinki written informed consent participants
+0,PMC3756454,S44,6609,6764, A single subcutaneous 25  mg dose etanercept improves endothelium dependent vasodilatation within 6  h administration patients heart failure 12
+0,PMC3756454,S46,6954,7066, Subcutaneous etanercept 23 bioavailability achieves peak plasma concentrations 0 43   g ml 66  h 16
+6a,PMC3756454,S53,7968,8220, Blood samples obtained 17 gauge cannula careful attention ensure smooth extraction blood avoid artefactual platelet activation ex vivo anticoagulated D phenylalanyl L propyl L arginine chloromethyl ketone PPACK
+6a,PMC3756454,S61,9391,9593, Venous 17 gauge cannulae inserted forearm blood sampling 27 standard wire gauge steel needle placed brachial artery non dominant forearm vasodilator infusions
+6a,PMC3756454,S68,10531,10581, All antibodies diluted 1 20 flow buffer
+6a,PMC3756454,S72,10927,11073, Samples fixed run FACSCalibur Becton Dickinson flow cytometer within 2  h fixing using established flow protocol 20
+0,PMC3944682,S47,6999,7234, The factorial design efficient assessing multiple interventions also provides better control symptomatic advice regarding analgesia steam could plausibly affect symptom control antibiotic groups
+0,PMC3944682,S56,8626,8768, A key concern complex pragmatic factorial trials keeping logistics simple avoiding errors point intervention delivery
+0,PMC3944682,S59,9202,9328, There evidence subversion current study  either selective envelope use bias patient characteristics
+4a,PMC3944682,S61,9400,9520, The study included patients aged 3 years presenting health professional general practitioner nurse
+4a,PMC3944682,S62,9521,9754, Patients present general practice setting respiratory tract infection diagnosed health professional acute cold influenza sore throat otitis media sinusitis croup lower respiratory tract infection
+6a,PMC3944682,S69,10742,10826, The diary completed patients children symptoms returned normal
+6a,PMC3944682,S72,11132,11251, Symptom resolution secondary outcome duration differs according particular respiratory infection 7
+6a,PMC3944682,S83,12703,12924, General practitioners asked complete non recruitment logs questionnaire end study documenting common reasons non recruitment eligible patients eligible patients declined
+7a,PMC3944682,S88,13315,13585, Assuming one analgesic group symptom control 0 5 standard deviations better one groups moderate effect size 228 patients needed allow 12 groups 80 follow up 504 patients 0 33 standard deviations
+12a,PMC3944682,S95,14677,14801, We performed analysis randomised groups secondary analysis included non randomised immediate group
+12a,PMC3944682,S99,15187,15291, The effect antibiotic strategies interactions assessed using likelihood ratio test
+4b,PMC4066691,S43,6771,7079, The study conducted 19 sites three European countries Germany Austria Ukraine ClinicalTrials gov identifier NCT01233284 carried accordance principles Declaration Helsinki International Conference Harmonisation Good Clinical Practice Guidelines
+5,PMC4066691,S47,7454,7685, Each treatment administered 4  weeks washout treatment periods pharmacodynamic steady state tiotropium known achieved 3  weeks chronic obstructive pulmonary disease 13 14
+5,PMC4066691,S50,8014,8147, Tiotropium Respimat  two puffs placebo Respimat  two puffs administered daily evening 18 00 20 00
+5,PMC4066691,S51,8148,8331, All patients required continue maintenance treatment stable medium dose ICS 400  800   g budesonide equivalent least 4  weeks prior Visit 1 Visit 7
+5,PMC4066691,S52,8332,8524, Patients using ICS plus short acting ICS    LABA fixed dose combinations switched dose ICS mono product least 8 24  hours respectively prior Visit 1
+5,PMC4066691,S56,9106,9303, Permitted medication treatment acute asthma exacerbations included salbutamol hydrofluoroalkane metered dose inhaler systemic corticosteroids short acting theophylline preparations
+4a,PMC4066691,S64,10043,10286, Patients required maintenance treatment stable medium dose ICS 400  800   g budesonide equivalent alone fixed dose combination LABA short acting least 4  weeks prior Visit 1
+4a,PMC4066691,S65,10287,10438, A diagnosis asthma confirmed Visit 1 required bronchodilator reversibility 15  30 minutes 400   g salbutamol
+4a,PMC4066691,S66,10439,10729, Patients required seven question Asthma Control Questionnaire ACQ 7 mean score Visits 1 2 pre bronchodilator FEV1 predicted normal FEV1 Visit 1 demonstrate absolute FEV1 variability within 30 Visits 1 2
+6a,PMC4066691,S72,11654,12095, The following secondary efficacy end points investigated trough FEV1 peak forced vital capacity FVC within first 3 hours dosing FVC 0 3h trough FVC FEV1 area curve AUC within first 3  hours dosing FEV1 AUC 0 3h FVC AUC 0 3h pre dose PEFam PEFpm using Asthma Monitor2 device AM2   ERT Philadelphia Pennsylvania USA based mean final week treatment period
+6a,PMC4066691,S73,12096,12238, Control asthma assessed ACQ 7 self administered end 4 week treatment period additional exploratory end point
+6a,PMC4066691,S74,12239,12363, Safety tolerability assessed based incidence intensity adverse events changes vital signs
+6a,PMC4066691,S77,12497,12565, Pre dose lung function tests scheduled 18 00 20 00
+6a,PMC4066691,S81,12961,13067, Adverse events concomitant medications recorded electronic case report form visit
+4a,PMC4085478,S52,7003,7394, The main inclusion criteria follows active disease Simple Clinical Colitis Activity Index SCCAI subscore stool  baseline history bloody diarrhea least 6 weeks inclusion despite mesalazine treatment dose documented intolerance mesalazine details criteria see legend Figure 1
+5,PMC4085478,S53,7395,7507, Patients required maintain stable comedication throughout study steroid tapering allowed
+0,PMC4085478,S54,7508,7581, UC defined accordance European consensus conference 21
+0,PMC4085478,S58,7997,8073, Doses selected based results previous studies 18 19 20
+6a,PMC4085478,S66,9069,9233, The treatment period ended 12 weeks baseline V5 involved interview physical examination sigmoidoscopy safety lab SCCAI assessment
+0,PMC4085478,S75,10279,10344, No changes study methods made study initiation
+0,PMC4085478,S91,12298,12387, The score ranges 0 19 points  the lower score lower disease activity
+12a,PMC4085478,S103,14525,14630, If patient missing value final visit V5 latest available value carried forward
+12a,PMC4085478,S104,14631,14823, Analysis covariance used model primary end point including following baseline covariates mean SCCAI past 7 days screening period ii disease extent
+0,PMC4085478,S112,15957,16218, This defined categorical variables rate remission mucosal healing priori secondary exploratory order discover trends treatment effects gather information sample size calculation future phase III studies
+12a,PMC4085478,S113,16227,16317, Linearity checked important continuous variables compared log transformation
+12a,PMC4085478,S114,16318,16406, Normality continuous parameters assumed absolute value skewness was 1
+0,PMC4145439,S42,5070,5108, All patients provided written consent
+8b,PMC4145439,S51,6172,6273, Randomisation stratified according number prior failed TNF inhibitors 1 vs 2
+6a,PMC4145439,S67,8473,8557, Secondary efficacy endpoints ACR20 ACR50 ACR70 Week 12 OKZ PBO
+0,PMC4145439,S71,9039,9178, Safety variables analysed using Safety Set SS patients received least 1 dose partial dose study medication
+0,PMC4145439,S73,9230,9288, Unless specifically stated FAS used analyses
+12b,PMC4145439,S76,9501,9618, Missing data SJC TJC HAQ DI CDAI change baseline imputed using last observation carried forward LOCF
+12b,PMC4145439,S77,9619,9731, Non responder imputation used analysis  patients DAS28 CRP 2 6 control missing values
+12b,PMC4145439,S84,10395,10656, The final population PK model used derive individual concentration exposure measures use PK PD analyses involved describing relationship PK measures multiple efficacy safety endpoints via mixed effects methodology
+0,PMC4145444,S42,5354,5587, Approval study obtained Ethical Committee Jos University Teaching Hospital Institutional Review Board Mayo Clinic written informed consent obtained parent enrolled child
+0,PMC4145444,S45,5836,5897, Standing height measured wall mounted stadiometer
+0,PMC4145444,S48,6101,6151, Weight measured hanging weighing scale
+0,PMC4145444,S49,6152,6241, Anthropometric z scores calculated Epi Info 3 2 2 CDC Atlanta Georgia USA
+0,PMC4145444,S50,6242,6299, All children examined clinical signs rickets
+0,PMC4145444,S77,10031,10083, p Values less 0 05 considered significant
+5,PMC4213545,S49,7937,8000, Use albuterol salbutamol rescue medication permitted
+6a,PMC4213545,S57,9901,10023, Major adverse cardiovascular events MACE defined composite CV deaths nonfatal MIs nonfatal strokes
+6a,PMC4213545,S60,10419,10550, Assessments efficacy safety outcomes occurred various timepoints throughout study Additional file 1 Table S1
+0,PMC4213545,S64,10883,11066, E RS data analyzed ITT Exacerbation Population included patients randomized population took least 1 dose double blind investigational product
+12a,PMC4213545,S65,11067,11416, Change baseline bronchodilation outcomes analyzed mixed model repeated measures MMRM treatment group sex smoking status visit treatment group by visit interaction fixed effect factors corresponding baseline values age covariates pre postbronchodilator FEV1 covariate FEV1 outcomes
+12b,PMC4213545,S65,11067,11416, Change baseline bronchodilation outcomes analyzed mixed model repeated measures MMRM treatment group sex smoking status visit treatment group by visit interaction fixed effect factors corresponding baseline values age covariates pre postbronchodilator FEV1 covariate FEV1 outcomes
+12a,PMC4213545,S70,12536,12642, Change baseline TDI SGRQ analyzed using MMRM described bronchodilation outcomes
+0,PMC4213545,S72,12888,13054, Use rescue medication analyzed using averages daily diary values time periods visits based change baseline values
+4a,PMC4215282,S42,5623,6065, Study exclusion criteria use systemic corticosteroids within 30  days randomisation use immunomodulators interferon glatiramer acetate immunosuppressants cyclosporine sirolimus mycophenolic acid within 3  months randomisation use immunosuppressants azathioprine methotrexate natalizumab non lymphocyte depleting biologic agents eg daclizumab within 6  months prior randomisation
+11a,PMC4215282,S49,7209,7408, The primary investigator treating neurologist independent evaluating neurologist physician evaluating cardiac safety assessments care providers patients sponsor blinded treatment
+11b,PMC4215282,S51,7556,7645, All ponesimod doses matching placebo indistinguishable identically packaged
+3a,PMC4215282,S56,8522,8561, Study design summarised figure 1
+11a,PMC4215282,S72,10507,10620, MRI scans centrally evaluated fully blinded manner Medical Image Analysis Centre Basel Switzerland
+6a,PMC4215282,S74,10825,11032, The main pharmacodynamic variable total lymphocyte count centrally analysed screening baseline days 8 15 every 4  weeks thereafter EOT two safety follow up visits
+6a,PMC4215282,S75,11041,11157, On treatment initiation dose up titration days cardiac monitoring performed independent cardiologist
+6a,PMC4215282,S79,11450,11564, Unscheduled PFTs performed event respiratory symptoms decreased PFT parameters treatment
+6a,PMC4215282,S87,12409,12574, In addition primary endpoint aligned another agent dimethyl fumarate delayed onset anti inflammatory effects patients RRMS 19
+6a,PMC4215282,S91,13278,13757, Exploratory efficacy MRI endpoints included cumulative number new enlarging non enhancing T2 lesions weeks 12 16 20 24 cumulative number combined unique active lesions CUALs sum new T1 Gd lesions new enlarging T2 lesions since previous MRI scan weeks 12 16 20 24 percentage change baseline week 24 brain volume measured MRI using Structural Image Evaluation Using Normalisation Atrophy SIENA program 20
+0,PMC4215282,S93,13809,13982, The global null hypothesis none three ponesimod groups differed placebo group mean cumulative number new T1 Gd lesions weeks 12 24
+0,PMC4215282,S98,14421,14619, The per protocol analysis set defined randomised patients received study drug study drug initiation planned EOT valid post baseline MRIs weeks 12  24
+12a,PMC4215282,S99,14620,14806, The dose  response relationship explored primary endpoint lymphocyte counts means multiple comparison procedures modelling techniques previously described 21
+7a,PMC4215282,S107,16071,16484, The underlying assumption sample size calculation 50 decrease mean cumulative number new Gd lesions weeks 12 24 least one ponesimod treatment group compared placebo assuming mean eight lesions placebo anticipated sample size 90 evaluable patients per group 90 power detect significant difference ponesimod groups placebo
+4a,PMC4392313,S48,6485,6749, Enrolment criteria included inadequate response stable methotrexate MTX therapy exemplified swollen joint count SJC tender joint count TJC together C reactive protein CRP 10  mg L erythrocyte sedimentation rate ESR 28  mm h
+0,PMC4392313,S67,8987,9058, therapy open label TCZ 8  mg kg every 4  weeks background MTX
+0,PMC4392313,S71,9433,9554, Serum lipid subclasses characterised nuclear magnetic resonance NMR LipoScience Raleigh North Carolina USA
+0,PMC4392313,S72,9555,9779, Assays HDL associated SAA serum paraoxonase secretory phospholipase A2 IIA sPLA2 IIA oxidised LDL d dimer fibrinogen Lp a haptoglobin performed Pacific Biomarkers Inc Seattle Washington USA
+6a,PMC4392313,S75,9894,10065, Arterial stiffness assessed PWV according manufacturer s instructions using pulse wave analysis apparatus SphygmoCor AtCor San Jose California USA 19
+0,PMC4392313,S77,10186,10356, All PWV scans reviewed AtCor meeting predetermined quality control measures accepted analysis details online supplementary material
+0,PMC4392313,S81,10690,10771, All analyses including lipid lipoprotein parameters exploratory
+0,PMC4431679,S44,5622,5826, We defined bacteraemia isolation MRSA one blood culture bottle isolated single bottle accompanied fever 38  C chills systolic blood pressure 90 mm Hg
+8a,PMC4431679,S50,7375,7515, We used central computer generated random number list randomise patients treatment trimethoprim sulfamethoxazole vancomycin
+5,PMC4431679,S54,8045,8094, The vancomycin starting dose 1 g twice daily
+5,PMC4431679,S55,8095,8275, In arms treatment adjusted renal function vancomycin arm directed serum concentrations obtain drug trough concentrations 10 20 mg dL
+11a,PMC4431679,S59,8557,8657, After randomisation blinding performed outcomes adjudicated blinded allocation
+6a,PMC4431679,S62,9274,9455, Blood cultures repeated day 2 patients bacteraemia daily thereafter patients persistent fever persistent bacteraemia signs infection
+7a,PMC4431679,S67,10323,10413, To establish non inferiority allowed difference 15 primary outcome
+7a,PMC4431679,S68,10414,10705, Assuming 30 treatment failure rate treatment groups needed sample 128 patients per arm one sided test rule pre specified difference 95 confidence interval difference groups allowing 10 non evaluable patients
+12b,PMC4431679,S72,11083,11143, We subgroup analysis patients MRSA bacteraemia
+5,PMC4469977,S58,8140,8322, Participants received oral prednisolone brand chosen according local practice 0 75 mg kg day single dose ciclosporin Neoral Novartis 4 mg kg day two divided doses
+5,PMC4469977,S60,8493,8543, Topical treatment prohibited trial
+11a,PMC4469977,S66,9296,9493, It possible blind clinicians participants treatment allocation owing resource limitations complexities different dosing regimens safety testing two drugs
+11a,PMC4469977,S67,9494,9650, As result clinicians participants informed treatment allocation data irrevocably entered randomisation database
+11a,PMC4469977,S68,9651,9872, Treatment allocation concealed statistician blinded assessors digital images interventions assigned recruitment data collection data cleaning blind analysis complete
+6a,PMC4469977,S72,10229,10366, Clinic visits took place baseline week 2 week 6 primary outcome ulcer healed maximum six months
+6a,PMC4469977,S77,10768,10901, Two trained assessors mapped circumference lesion using VERG Videometry VEV MD software Vista Medical Winnipeg Canada
+6a,PMC4469977,S78,10902,11148, Two dermatologists independently reviewed images ensure lesions consistent diagnosis pyoderma gangrenosum measurements taken trained assessors accurate representation ulcer  s size
+6a,PMC4469977,S82,11341,11474, If multiple lesions present designated largest lesion could photographed single plane target lesion
+6a,PMC4469977,S91,12777,12919, Self reported pain  participants self reported severity pain daily using score 0 4 none mild moderate severe extreme
+0,PMC4469977,S109,15504,15564, All analyses adjusted stratification variables
+4a,PMC4515982,S42,5153,5310, Patients aged 18  75  years diagnosed probable laboratory supported probable definite ALS according El Escorial revised criteria eligible
+6a,PMC4515982,S50,6489,6634, The primary outcome one single composite outcome time randomisation death tracheotomy 23  h NIV daily 14 consecutive days
+0,PMC4515982,S58,7487,7601, The procedure incorporated eligibility checks according protocol performed request centres
+5,PMC4515982,S62,8081,8192, Shipping performed patient within 1  week randomisation using refrigerated express carrier
+0,PMC4515982,S65,8466,8608, Briefly participating centres generated specific access code blood withdrawals patients ALS enrolled EPOS trial
+0,PMC4515982,S72,9627,9696, This procedure elaborated maintain blindness study
+0,PMC4515982,S95,13186,13360, The main analysis primary secondary outcomes included randomised patients took least one dose investigational drug original assigned groups
+4a,PMC4621368,S40,5547,5653, Patients 18  years older referred isolated CABG surgery requiring two grafts
+5,PMC4621368,S43,6238,6396, Intravenous recombinant human elafin Proteo Biotech AG Germany 200  mg saline placebo prepared infused aqueous solution 250  mL 0 9 saline
+6a,PMC4621368,S57,8488,8621, Plasma elastase activity serum elafin concentrations measured Department Dermatology University Kiel Germany
+7a,PMC4621368,S75,10933,11091, No contemporary AUC data available cTnI release patient group measurements equivalent terms quantifying myocardial injury
+11a,PMC4770816,S47,6607,6680, Neither participants clinicians blinded treatment allocation
+5,PMC4770816,S56,8202,8368, We provided general practitioners treatment protocols reflected national guidelines blood pressure lowering operation time trial 15
+12b,PMC4770816,S76,10924,11025, In addition subgroup analysis baseline systolic blood pressure 140 mm Hg mm Hg
+12b,PMC4770816,S79,11386,11535, We checked proportional hazard assumption Schoenfeld residual plots including interaction terms model term time
+0,PMC4797126,S45,5983,5995, Trial design
+11a,PMC4797126,S49,6764,6905, Patients study site personnel blinded treatment assignments follow up data Week 84 collected verified
+0,PMC4797126,S54,7643,7914, The trial conducted full conformance International Conference Harmonisation E6 guidelines Declaration Helsinki laws regulations country research conducted whichever afforded greater protection individual
+6a,PMC4797126,S68,10996,11089, Safety outcomes assessed throughout 36 week treatment 48 week follow up periods
+0,PMC4797126,S69,11112,11123, Assessments
+6a,PMC4797126,S80,12903,13042, Allergen specific total IgE measured serum ImmunoCAP  Specific IgE blood tests ViraCor IBT Laboratories Lee  s Summit MO
+0,PMC4797126,S83,13403,13503, Only observed values IgE levels analyzed imputation performed missing IgE data
+0,PMC4797126,S100,16011,16036, Sample size determination
+0,PMC4893154,S37,6073,6209, The consort diagram results study presented online supplementary datasets Online Figure  1 Online Tables  1 2
+0,PMC4893154,S38,6210,6460, A simple linear model based trend test study demonstrated significant decrease PTH year p  0 0095 allocated vitamin D trend patients allocated placebo arm p  0 977 Online Figure  2 19
+6a,PMC4893154,S43,6998,7076, At baseline patient performed 6MWT according standard criteria 20
+6a,PMC4893154,S48,7472,7542, Serum 25 OH D2 25 OH D3 analyzed tandem mass spectrometry
+7a,PMC4893154,S67,9970,10110, We assumed based upon preliminary data pilot study 19 would change 2 groups 12 months 30  m
+12a,PMC4893154,S75,11111,11197, All analyses conducted Stata version 14 StataCorp College Station Texas
+11a,PMC4893154,S78,11422,11634, An  agreed operating procedure subject who  developed serum vitamin D concentration 200 nmol l 80 ng ml involved reducing dose of  treatment 2 1 tablets per day maintain patient blinding
+3a,PMC4902320,S39,5061,5100, This randomized controlled trial
+8a,PMC4902320,S42,5416,5518, Randomization followed computer generated number sequence allocation conducted telephone
+4a,PMC4902320,S44,5652,5771, We screened 626 patients scheduled abdominal surgery presence IDA August 2011 November 2014
+0,PMC4902320,S52,7025,7164, At time initiation study IV iron considered usual care however prescription administration disallowed
+0,PMC4902320,S56,7448,7505, The SF36 screening bloods repeated time
+0,PMC4902320,S59,7715,7818, A trial information session given departmental members involved commencing study
+6a,PMC4902320,S66,8625,8709, QoL score scaled 36 160 lower scores reflecting poorer well being
+7a,PMC4902320,S68,8761,8885, The sample size study calculated primary outcome parameter perioperative allogeneic transfusion event
+0,PMC4902320,S160,21143,21171, Supplemental Digital Content
+4a,PMC5009486,S48,7263,7482, In addition patients clinically significant abnormal electrocardiogram ECG results pregnant lactating women patients could meet ATS criteria acceptable spirometry results excluded 13
+5,PMC5009486,S51,8064,8266, Patients receiving maintenance dose ICS administered FDC permitted continue provided maintained stable dose least 4  weeks prior screening
+5,PMC5009486,S55,8698,8798, Six doses GP MDI 18 9 4 6 2 4 1 2 0 6   g administered BID 14  days assessed
+5,PMC5009486,S58,9035,9198, In study GP expressed salt glycopyrrolate glycopyrronium bromide dose 18   g equivalent 14 4   g glycopyrronium active moiety
+5,PMC5009486,S65,9942,10074, During screening washouts treatment periods ipratropium bromide Atrovent  HFA MDI used maintenance medication
+6a,PMC5009486,S75,11181,11329, Adverse events AEs serious AEs documented investigators paradoxical bronchospasm dry mouth classified events interest
+7a,PMC5009486,S82,12341,12476, The planned sample size 120 patients designed provide approximately 93  power detect differences 100  mL FEV1 AUC0  12
+6a,PMC5009486,S85,12898,13154, For primary efficacy analysis assessing dose  response curve family wise Type I error controlled multiplicity beyond specifying primary endpoint six key comparisons namely dose GP MDI compared placebo MDI
+12b,PMC5009486,S92,14310,14459, The proportion patients achieving improvement baseline Day 1 tabulated logistic regression used compare treatments
+3a,PMC5033259,S31,5062,5249, Forty eight men women provided written informed consent participate randomized placebo controlled double blind study full details available Supplementary Fig 1
+4b,PMC5033259,S32,5250,5435, Participants first screening visit Beth Israel Deaconess Medical Center Clinical Research Center ensure met inclusion exclusion criteria study
+7a,PMC5033259,S34,5533,5664, We thus enrolled 48 subjects priori plan replace 8 subjects would drop assuming 20 attrition
+6a,PMC5033259,S47,7790,7890, Samples analyzed LabCorp Clinical Laboratory Improvement Amendments  certified laboratory
+12a,PMC5033259,S49,7928,8019, Data analyzed using SPSS 19 software first summarized descriptive statistics
+12a,PMC5033259,S52,8223,8337, Repeated measures ANOVA performed across time points lorcaserin placebo between subjects factor
+12b,PMC5033259,S54,8423,8609, Intention to treat analysis done anthropometric data confirm on treatment analysis using last observation carried forward method results reported Table 2
+6a,PMC5033259,S61,9365,9723, Next five 7 min gradient echo T2 weighted echo planar images depicting blood oxygenation level  dependent BOLD contrast acquired noncontiguous near axial planes repetition time  3 5 echo time  25 ms in plane resolution  2 5 2 5 mm matrix size  96 96 field view  24 24 cm voxel bandwidth  83 33 kHz slice thickness  3 mm
+6a,PMC5033259,S62,9724,9774, E Prime software controlled stimulus presentation
+12a,PMC5033259,S72,11509,11618, Flexible factorials used compare two groups weeks 1 4 controlling baselines week 0
+4a,PMC5064025,S51,7626,7770, Patients stable statin therapy period of    6 weeks screening physician documented statin intolerance
+0,PMC5064025,S61,8858,9031, The imaging protocol adapted Lee et  al 19 staff imaging site underwent individualized training ensure consistency method data acquisition
+0,PMC5064025,S66,9712,9815, A measure arterial stiffness independent predictor mortality T2DM IGT 26
+6a,PMC5064025,S67,9816,9859, The Sphygmocor platform AtCor Medical Pty
+6a,PMC5064025,S74,10574,10814, The primary efficacy objectives effects drug aortic distensibility total plaque burden aorta carotid arteries primary safety objective safety tolerability canakinumab population
+0,PMC5064025,S92,13316,13452, Following final database lock patient data analyzed independently Centre Statistics Medicine Oxford J B
+0,PMC5064025,S93,13453,13688, The manuscript drafted the  academic investigators R P C J S B J C T Z A F accordance written agreement Novartis academic institutions and  reviewed revised writing committee
+0,PMC5099201,S50,6967,7044, Data collected baseline included demographics disease characteristics
+5,PMC5264229,S52,6145,6298, Non steroidal anti inflammatory drugs corticosteroids prednisolone allowed taken stable dose 4  weeks randomisation
+6a,PMC5264229,S60,7140,7256, Efficacy safety immunogenicity assessments patients done visit SB2 INF infusion
+6a,PMC5264229,S64,7792,7981, Efficacy components tender swollen joint counts visual analogue scales scores health assessment questionnaire disability index scores assessed infusion
+6a,PMC5264229,S68,8348,8439, ADA positivity defined least one positive ADA result week 30
+7a,PMC5264229,S81,9780,9971, With significance level 5 power 80 sample size least 292 randomised patients per treatment group required order reach required subject size PPS
+0,PMC5264229,S82,9980,10070, The primary efficacy outcome analysed using PPS full analysis set FAS 22
+12a,PMC5264229,S88,10818,10979, To formally test differential influence ADA SB2 INF analysis covariance done including ADA by treatment interaction term model
+4b,PMC5418559,S40,5819,5993, The sites conducting study gastroenterology practices n 26 primary care research practices n 53 specializing internal medicine and or gastroenterology
+4a,PMC5418559,S45,6765,6876, Men women aged 18  75 years met Rome III criteria IBS C 20 eligible study enrollment
+4a,PMC5418559,S48,8244,8291, Pregnant lactating women also excluded
+6a,PMC5418559,S55,9963,10035, The CSBM responder rate primary efficacy variable study
+6a,PMC5418559,S57,10306,10473, Additional secondary efficacy variables weekly averages stool frequency stool consistency straining abdominal pain constipation severity IBS severity
+6a,PMC5418559,S61,10741,11047, Variables recorded daily included stool frequency CSBMs SBMs stool consistency BSFS abdominal symptom scores pain bloating cramping discomfort fullness 0  10 point scale 0 absent 10 very severe straining score 1  5 point scale 1 not 5 an extreme amount
+6a,PMC5418559,S62,11048,11372, Variables scored weekly patients included constipation severity IBS severity 1  5 point scale 1 none 5 very severe degree relief IBS symptoms 1  7 point scale 1 completely relieved 7 as bad I imagine treatment satisfaction 1  5 point scale 1 not satisfied 5 very satisfied
+6a,PMC5418559,S65,11601,11735, The baseline value defined average number CSBMs per week 2 week screening period i e weeks
+0,PMC5418559,S80,14184,14379, The intention to treat analysis set included patients received least one dose study drug placebo least one valid week efficacy assessment data collected
+12a,PMC5418559,S91,16090,16311, If either comparisons found significant result either treatment groups considered individually simultaneously significantly different placebo group
+10,PMC5529963,S45,5592,5730, Eighteen patients RA randomised one two treatment groups pharmacist participate screening visit
+5,PMC5529963,S46,5731,5904, Eleven patients received infusions infliximab 5  mg kg seven received placebo normal saline infusions weeks 0 2 6 every 8  weeks week 46
+5,PMC5529963,S49,6140,6364, Those M I group received placebo infusion week 56 order maintain blinding received infliximab infusions every 8  weeks end study 110  weeks see online supplementary appendix figure 1
+0,PMC5529963,S51,6489,6523, 10 1136 heartjnl 2015 308953 supp1
+5,PMC5529963,S55,7098,7239, Thereafter irrespective response status patients continued receive maximum tolerated MTX dosage end study
+6a,PMC5529963,S60,7570,7680, Anthropometric measurements made body mass index BMI kg m2 calculated weight height
+6a,PMC5529963,S65,8246,8348, Measurements HDL function carried baseline 54  weeks 110  weeks patients RA
+0,PMC5529963,S66,8349,8418, Baseline measurements compared healthy controls
+6a,PMC5529963,S69,8594,8709, All functional assays HDL carried within two  weeks isolation blinded investigator duplicate
+6a,PMC5529963,S81,10607,10695, Samples centrifuged 1900 g supernatant collected stored 4  C
+6a,PMC5529963,S82,10696,10802, J774 cells radiolabeled 24  hours medium containing 2 3H cholesterol per microlitre
+6a,PMC5529963,S84,10901,11009, An efflux medium containing 2 8 apolipoprotein B depleted serum individual added 4  hours
+6a,PMC5529963,S85,11010,11193, To prevent cholesterol esterification labelling equilibration flux 2   g mL CP113 818 acyl coenzyme A cholesterol acyltransferase inhibitor added mediums
+6a,PMC5529963,S87,11342,11494, All assays performed duplicate final average value normalised baseline control statistical analyses time points 10
+6a,PMC5529963,S89,11564,11722, Serum paraoxonase activities measured ultraviolet spectrophotometry 96 well plate format using paraoxon Sigma Aldrich St Louis Missouri USA
+6a,PMC5529963,S91,11872,12114, At 24  C 1 5  mM paraoxon added initiate reaction increase absorbance 405 nm recorded 30  min An extinction coefficient 405  nm 17 000 M  1 cm  1 used calculate units paraoxonase 1 PON 1 11
+7a,PMC5529963,S94,12380,12551, From power calculation total seven patients per group required power 80 detect 5 difference primary outcome NO bioavailability
+0,PMC5529963,S102,13470,13551, A two sided p value 0 05 considered indicate statistical significance
